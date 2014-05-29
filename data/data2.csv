@@ -1,517 +1,517 @@
-Last Name,First Name,University,Major,State,Type,Gender,Not college,lat,lng
-Tunney,Austin,University of Florida,Criminal Justice,FL,4,M,,29.64526399999999,-82.34639399999999
-Rosenfeld,Jacob,University of the Pacific,Business Administration,CA,4,M,,37.9804693,-121.3101096
-Fontanilla,Lukas,Washington State University,International Business,WA,4,M,,46.7319374,-117.1544219
-Hicks,Spenser,Dalhousie University,Pre-med,"Nova Scotia, Canada",4,m,,44.63658119999999,-63.59165549999999
-McGlynn,Cole,University of San Francisco,Mechanical Engineering ,CA,4,M,,37.7757492,-122.4503856
-Garcia,William,CSU Chico,Business and Marketing,CA,4,M,,39.7281043,-121.846213
-Coral,Kevin,UC Davis,"Neurobiology, Physiology and Behavior",CA,4,M,,38.6638475,-121.287886
-Kolvenbach,Sydney,UC Davis,Biochemistry,CA,4,F,,38.6638475,-121.287886
-Marvin,Jessica,UC Davis,Biology,CA,4,F,,38.6638475,-121.287886
-Janusz,Brooke,St. Olaf College,Economics,MN,4,F,,44.461154,-93.1836963
-Sublette,Isabel,St. Olaf College,Bassoon Performance/Nursing,MN,4,F,,44.461154,-93.1836963
-Peach,Kenzy,Emerson College,Acting,MA,4,F,,42.3520869,-71.0657174
-Arndt,James,Arizona State University,Chemical Engineering,AZ,4,M,,33.4214736,-111.934023
-Macleod,Christy,Arizona State University,Kinesiology,AZ,4,F,,33.4214736,-111.934023
-Moore,Cameron,Arizona State University,Business,AZ,4,M,,33.4214736,-111.934023
-Stewart,Jordan,Arizona State University,Community Sports Management,AZ,4,F,,33.4214736,-111.934023
-Rhodes,Allison,Ithaca College,Business Adminstration/Management,NY,4,F,,42.4221462,-76.4950805
-Aviles,Gabriel,San Jose State University,Chemistry,CA,4,M,,37.3351874,-121.8810715
-Pertessis,George,San Jose State University,Criminal Justice,CA,4,M,,37.3351874,-121.8810715
-Spadaro,Matthew,San Jose State University,Computer Engineering,CA,4,M,,37.3351874,-121.8810715
-Pirtle,Tyler,University of Washington,Mechanical Engineering,WA,4,M,,47.65533509999999,-122.3035199
-Marik,Kyle,University of Rochester,Biomedical Engineering,NY,4,M,,43.1305531,-77.6260033
-Torosian,John,CSU Monterrey Bay,Business,CA,4,M,,36.65300060000001,-121.8002501
-Didziulis,Claire,Reed College,Classics,OR,4,F,,45.4805713,-122.6300908
-Chow,Noah,Westmont College,Undeclared,CA,4,M,,34.4485027,-119.6616697
-Lichtl,Amanda,Westmont College,Liberal Studies/Elementary Education,CA,4,F,,34.4485027,-119.6616697
-Niazi,Yasin,Moopark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Ortiz,Gema,Moopark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Ishiyama,Lukas,UC Riverside,Chemistry,CA,4,M,,33.973287,-117.3281109
-Laput,Sean,UC Riverside,Chemical Engineering,CA,4,M,,33.973287,-117.3281109
-Jack,Cameron,Dubspot,Sound Engineering,NY,T,M,,40.7056308,-73.9780035
-Aguilar,Rachel,Fashion Institute of Design and Merchandise,Visual Communications,CA,2,F,,37.7862832,-122.4064587
-Dacanay,Matthew,University of Washington (Seattle),Physiology and 3D Forum,WA,4,M,,47.65533509999999,-122.3035199
-Hsu,Amanda,University of Washington (Seattle),Civil and Environmental Engineering,WA,4,F,,47.65533509999999,-122.3035199
-Micovic,Daria,University of Washington (Seattle),Electrical Engineering,WA,4,F,,47.65533509999999,-122.3035199
-Stroyeck,Michael,Chapman University,Undeclared,CA,4,M,,33.7929818,-117.85266
-Tate,Davis,Chapman University,Finance/History,CA,4,F,,33.7929818,-117.85266
-Groenveld,Kori,Lewis and Clark College,Enviromental Studies,OR,4,F,,45.4524939,-122.6773915
-Lasarow,Eliana,Lewis and Clark College,Psychology,OR,4,F,,45.4524939,-122.6773915
-Lam,Sean,Notre Dame University ,Political Science,IN,4,M,,41.7052193,-86.2353067
-Manzer,Derek,Culinary Institute of America,"Culinary Arts, Culinary Science",NY,4,M,,41.7451415,-73.93248539999999
-Lopez,Jonathan,Boston University,Marketing,MA,4,M,,42.3507543,-71.1073183
-Mahler,Andrew,Boston University,Biomedical Engineering,MA,4,M,,42.3507543,-71.1073183
-Martinez,Jose,"Institute of Art, Music and Science",Music Arts,CA,C,M,,33.8848833,-118.1340792
-Bentley,Marcus,Utah Valley University,Undeclared,UT/LDS,4,M,,40.279792,-111.713895
-Jenkins,Emerson,Utah Valley University,Undeclared,UT,4,F,,40.279792,-111.713895
-Baca,Jacob,Bryant University,Business,RI,4,M,,41.9210684,-71.5382698
-Arciga,Eddie,BYU (Provo),Dentistry,UT/LDS,4,M,,40.2533647,-111.6576931
-Gouett,Brock,BYU (Provo),Undeclared,UT/LDS,4,M,,40.2533647,-111.6576931
-Nickolaisen,Caleb,BYU (Provo),Undeclared,UT/LDS,4,M,,40.2533647,-111.6576931
-Pomar,Caleb,BYU (Provo),Undeclared,UT/LDS,4,M,,40.2533647,-111.6576931
-Porter,Delaney,BYU (Provo),Neuroscience,UT,4,F,,40.2533647,-111.6576931
-Rupp,Shanna,BYU (Provo),Undeclared,UT,4,F,,40.2533647,-111.6576931
-Whitworth,Alyson,BYU (Provo),Recreational Management,UT,4,F,,40.2533647,-111.6576931
-Jesse,Brianna,UC Santa Cruz,Environmental Science,CA,4,F,,36.9913856,-122.0608718
-McCabe,Nick,UC Santa Cruz,Physics,CA,4,M,,36.9913856,-122.0608718
-Romero,Sean,UC Santa Cruz,Astrophysics,CA,4,M,,36.9913856,-122.0608718
-Vitela,Erick,UC Santa Cruz,Computer Engineering,CA,4,M,,36.9913856,-122.0608718
-Wooster,Candace,UC Santa Cruz,Undeclared,CA,4,F,,36.9913856,-122.0608718
-Tucker,Hannah,UC Santa Cruz ,Mathematics,CA,4,F,,36.9913856,-122.0608718
-Bell,Connor,Oregon State University,Psychology,OR,4,M,,44.5637355,-123.2794752
-Gonzalez,Damian,La Sierra University,Business,CA,4,M,,33.9102688,-117.4982137
-Sedgwick,Chelsea,Pierce College,American Sign Language,CA,C,F,,34.1826707,-118.5748132
-Davis,Corey,Seattle University,Undeclared,WA,4,F,,47.6105941,-122.3172284
-Rinaman,Johanna,Seattle University,Chemistry,WA,4,F,,47.6105941,-122.3172284
-Welty,Alyssa,Eastern University,Social Work,PA,4,F,,40.0506771,-75.3715124
-Bartak,Sarah,Cal Poly SLO,Animal Science,CA,4,F,,35.3050054,-120.6624942
-Garvin,Christopher,Cal Poly SLO,Biology,CA,4,M,,35.3050054,-120.6624942
-Kavanagh,Paige,Cal Poly SLO,Aerospace Engineering,CA,4,M,,35.3050054,-120.6624942
-Reinach,Eli,Cal Poly SLO,General Engineering,CA,4,M,,35.3050054,-120.6624942
-Sookikian,Jordan,Cal Poly SLO,Computer Science,CA,4,M,,35.3050054,-120.6624942
-Spencer,Nicholas,Cal Poly SLO,Electrical Engineering,CA,4,M,,35.3050054,-120.6624942
-Williams,Jake,Cal Poly SLO,Agricultural Engineering,CA,4,M,,35.3050054,-120.6624942
-Lyons,Ethan,Ohio State University,Environmental Science,OH,4,M,,40.0138423,-83.0310846
-Enriquez,Michael,Santa Clara University,Computer Engineering,CA,4,M,,37.3498011,-121.939461
-Angel,Janett,Drexel University,Nursing,PA,4,F,,39.9566127,-75.18994409999999
-Perez,Megan,Drexel University,Psychology,PN,4,F,,39.9566127,-75.18994409999999
-Stueckle,Audrey,Willamette University,Undeclared,OR,4,F,,44.9371219,-123.0318004
-Solomon,Hannah,University of Redlands,Undeclared,CA,4,M,,34.062685,-117.163181
-Chau,Nile,Davidson College,Computer Science,NC,4,M,,35.502229,-80.847465
-Hoffmann,Jesse,UC Berkeley,Economics,CA,4,M,,37.8739132,-122.2505629
-Huang,Charley,UC Berkeley,Chemical Engineering,CA,4,M,,37.8739132,-122.2505629
-Hung,Kaitlin,UC Berkeley,Marketing/Public Relations,CA,4,F,,37.8739132,-122.2505629
-Kodera,Erika,UC Berkeley,Interdisciplinary Studies,CA,4,F,,37.8739132,-122.2505629
-McGuigan,Jed,UC Berkeley,Bioengineering,CA,4,M,,37.8739132,-122.2505629
-Rivalta,Julia,UC Berkeley,MCB Neurobiology,CA,4,F,,37.8739132,-122.2505629
-Rosenberg,Paige,UC Berkeley,Environmental Science,CA,4,F,,37.8739132,-122.2505629
-Tan,Joyce,UC Berkeley,Economics,CA,4,F,,37.8739132,-122.2505629
-Taylor,Wyatt,UC Berkeley,Undeclared,CA,4,M,,37.8739132,-122.2505629
-Aframian,Arya,Santa Barbara CC,Business,CA,C,M,,34.4282948,-119.7202494
-Brondyke,Jacob,Santa Barbara CC,Kineseology,CA,C,M,,34.4282948,-119.7202494
-Cavanaugh,Connor,Santa Barbara CC,Undeclared,CA,C,M,,34.4282948,-119.7202494
-Duran,Devin,Santa Barbara CC,Psychology,CA,C,M,,34.4282948,-119.7202494
-Fisher,Tia,Santa Barbara CC,Undeclared,CA,2,F,,34.4282948,-119.7202494
-Hinde,Liam,Santa Barbara CC,Business Administration,CA,C,M,,34.4282948,-119.7202494
-Johnston,Bailee,Santa Barbara CC,Undeclared,CA,C,F,,34.4282948,-119.7202494
-Kastan,Taylor,Santa Barbara CC,Psychology,CA,C,M,,34.4282948,-119.7202494
-Marsh,Nicholas,Santa Barbara CC,Undeclared,CA,C,M,,34.4282948,-119.7202494
-Molitor,Ian,Santa Barbara CC,Undeclared,CA,C,M,,34.4282948,-119.7202494
-Mueller-Leclerc,Benjamin,Santa Barbara CC,Music,CA,C,M,,34.4282948,-119.7202494
-Nunneley,Kevin,Santa Barbara CC,Business,CA,C,M,,34.4282948,-119.7202494
-Pollock,Spencer,Santa Barbara CC,Business,CA,C,M,,34.4282948,-119.7202494
-Rohlfing,Mason,Santa Barbara CC,Undeclared,CA,C,M,,34.4282948,-119.7202494
-Saffire,Mackenzie,Santa Barbara CC,Dance,CA,2,F,,34.4282948,-119.7202494
-Shidoosh,Valerie,Santa Barbara CC,Chemistry,CA,C,F,,34.4282948,-119.7202494
-Stahl,Kayleigh,Santa Barbara CC,Psychology,CA,C,F,,34.4282948,-119.7202494
-Sweet,Jordyn,Santa Barbara CC,Undeclared,CA,C,F,,34.4282948,-119.7202494
-Tierstein,Trace,Santa Barbara CC,Fire Science,CA,C,M,,34.4282948,-119.7202494
-Zavala,Amanda,Santa Barbara CC,Music,CA,C,F,,34.4282948,-119.7202494
-Angulo,Rodrigo,Oxnard CC,Fire Science,CA,C,M,,34.165953,-119.1575081
-Birg,Wyatt,Oxnard CC,Fire Science,CA,2,M,,34.165953,-119.1575081
-Duncan,Scott,Oxnard CC,Culinary,CA,C,M,,34.165953,-119.1575081
-Escobar,Jonathan,Oxnard CC,Fire Technology ,CA,C,M,,34.165953,-119.1575081
-Montes,Emilio,Oxnard CC,Fire Science/tech.,CA,C,M,,34.165953,-119.1575081
-Sanchez,Brian,Oxnard CC,Fire Science,CA,C,M,,34.165953,-119.1575081
-Suarez,Angel,Oxnard CC,Fire Service,CA,C,M,,34.165953,-119.1575081
-Lorenz,Meghan,Colorado State at Fort Collins,Microbiology,CO,4,F,,40.5740329,-105.0796853
-Franklin,Aubrie,Sonoma State University,Psychology,CA,4,F,,38.3393866,-122.6741812
-McReynolds,Kelly,Sonoma State University,Kinesiology,CA,4,F,,38.3393866,-122.6741812
-Spear,Kristen,Sonoma State University,Communications,CA,4,F,,38.3393866,-122.6741812
-Hughes,Sam,UCCS,Criminology,CO,4,M,,38.8916714,-104.8018342
-Marino,Natalie,Kapiolani CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Esqueda,Carter,"University of Colorado, Boulder",Biochemistry,CO,4,M,,40.0075811,-105.2659419
-McDermott,Matthew,"University of Colorado, Boulder",Political Science,CO,4,M,,40.0075811,-105.2659419
-Bouchard,Faith,St. Joseph School of Nursing,Nursing,RI,4,F,,41.8560111,-71.458783
-Cameron,Gordon,Humboldt State University,Focused History,CA,4,M,,40.87724619999999,-124.0791632
-Elwess,Arianna,Humboldt State University,Communications,CA,4,F,,40.87724619999999,-124.0791632
-Julier,Nick,Humboldt State University,Marine Biology,CA,4,M,,40.87724619999999,-124.0791632
-Quispe,Sebastian,Humboldt State University,Undeclared,CA,4,M,,40.87724619999999,-124.0791632
-Trujillo,Christopher,Humboldt State University,Psychology/Graphic Design,CA,4,M,,40.87724619999999,-124.0791632
-Duran,Gabby,CSU Monterey Bay,Business,CA,4,F,,36.65300060000001,-121.8002501
-Page,Lucas,CSU Monterey Bay,Computer Science,CA,4,M,,36.65300060000001,-121.8002501
-Sigelakis,Casey,CSU Monterey Bay,Undeclared,CA,4,M,,36.65300060000001,-121.8002501
-King,Alex,Colgate University,Undeclared,NY,4,F,,42.8173737,-75.5392442
-Puckett,Shauna,Western Oregon University,Undeclared,OR,4,F,,44.8517394,-123.2393202
-Arneson,Josh,CSU Channel Islands,Psychology,CA,4,M,,34.1843078,-118.882796
-Boze,Tucker,CSU Channel Islands,History,CA,4,M,,34.1843078,-118.882796
-Carrillo,Estrella,CSU Channel Islands,Mathematics,CA,4,F,,34.1843078,-118.882796
-Casanova,Elsie,CSU Channel Islands,Chemistry,CA,4,F,,34.1843078,-118.882796
-Durkin,Bailey,CSU Channel Islands,Computer Science,CA,4,M,,34.1843078,-118.882796
-Gamboa,Ayme,CSU Channel Islands,Undeclared,CA,4,F,,34.1843078,-118.882796
-Kravchenko,Mariya,CSU Channel Islands,Undeclared,CA,2,F,,34.1843078,-118.882796
-Kreiger,Wesley,CSU Channel Islands,Undeclared,CA,4,M,,34.1843078,-118.882796
-Patlin,Daniel,CSU Channel Islands,Agricultural Business,CA,4,M,,34.1843078,-118.882796
-Rector,Cassidy,CSU Channel Islands,Undeclared,CA,4,F,,34.1843078,-118.882796
-Royal,Katie,CSU Channel Islands,Undeclared,CA,4,F,,34.1843078,-118.882796
-Santacruz,Fabiola,CSU Channel Islands,Nursing,CA,4,F,,34.1843078,-118.882796
-Swain-Cohen,Bronwyn,CSU Channel Islands,Undeclared,CA,4,F,,34.1843078,-118.882796
-Trejo,Yvette,CSU Channel Islands,Political Science,CA,4,F,,34.1843078,-118.882796
-Villasenor,Aldair,CSU Channel Islands,Undeclared,CA,4,M,,34.1843078,-118.882796
-Willis,Charles,CSU Channel Islands,Political Science,CA,4,M,,34.1843078,-118.882796
-Frattali,Danielle,CSU Channel Islands ,Anthropology,CA,4,F,,34.1843078,-118.882796
-Solis,Danielle,Moorpark or Ventura ,Undeclared,CA,C,F,,34.285558,-118.8820414
-Adedigba,Aderola,University of San Diego,Accounting,CA,4,M,,32.7715337,-117.1900103
-Kinnon,Makenna,Marinello Schools of Beauty,Cosmetology,CA,T,F,,33.9935232,-117.9273875
-James,Lauren,Courtauld University,Art History,London,4,F,,51.511607,-0.1173949
-Ackerman,Brennan,University of Vermont,Mechanical Engineering,VA,4,M,,37.3899483,-79.1741052
-Akahoshi,Colin,UCSB,Psychology,CA,4,M,,34.4139629,-119.848947
-Anderson,Cassidy,UCSB,Chemistry,CA,4,F,,34.4139629,-119.848947
-Ashcraft,Jessica,UCSB,Undeclared,CA,4,F,,34.4139629,-119.848947
-Belleville,Michael,UCSB,Chemistry,CA,4,M,,34.4139629,-119.848947
-Brady,Michael,UCSB,Chemistry,CA,4,M,,34.4139629,-119.848947
-Carducci,Alicia,UCSB,Political Science,CA,4,F,,34.4139629,-119.848947
-Chen,Andria,UCSB,Art,CA,4,F,,34.4139629,-119.848947
-Lamp,Jane,UCSB,Economics,CA,4,F,,34.4139629,-119.848947
-Lestak,Trevor,UCSB,Environmental Studies,CA,4,M,,34.4139629,-119.848947
-Loose,Reed,UCSB,Chemical Engineering,CA,4,M,,34.4139629,-119.848947
-Luedke,Kaylie,UCSB,Communications,CA,4,F,,34.4139629,-119.848947
-Morales,Mayela,UCSB,French and International Relations,CA,4,F,,34.4139629,-119.848947
-Papenfus,Taylor,UCSB,Pharmacology,CA,4,M,,34.4139629,-119.848947
-Seguin,Shay,UCSB,Chemical Engineering,CA,4,M,,34.4139629,-119.848947
-Shankel,Shelby,UCSB,Chemistry,CA,4,F,,34.4139629,-119.848947
-Klein,Samuel,Copenhagen Business School,International Business,Denmark,4,M,,55.68162230000001,12.5308045
-Lestak,Tyler,UCSD,Physical Science,CA,4,M,,32.8800604,-117.2340135
-Lim,Na Rae,UCSD,Visual Art-Studio,CA,4,F,,32.8800604,-117.2340135
-McMinn,William,UCSD,Physiology and Neuroscience,CA,4,M,,32.8800604,-117.2340135
-Riedell,Daniel,UCSD,Biochemistry,CA,4,M,,32.8800604,-117.2340135
-Smith,Katherine,UCSD,Biological Science,CA,4,F,,32.8800604,-117.2340135
-Ruiz,Natalie,West Coast Ultrasound Institute,N/A,CA,T,F,,34.0689176,-117.571716
-Miranda,Tatiana,CSU Long Beach,Kinesiology,CA,4,F,,33.7838235,-118.1140904
-Nielsen,Josiah,SDSU,Biochemistry,CA,4,M,,32.7747703,-117.071665
-Jones,Austin,Stanford University,Undeclared,CA,4,M,,37.4274745,-122.169719
-Jones,Ian,Stanford University,Undeclared,CA,4,M,,37.4274745,-122.169719
-Nilsson,Emma,Art Institute of CA San Diego,Photography,CA,4,F,,32.7312287,-117.1510049
-Simpson,Steven,Simi Valley Adult School,Welding,CA,T,M,,34.2697251,-118.7345359
-Manji,Kareena,St. Mary's College,Undeclared,CA,4,F,,37.841201,-122.108703
-Smith,Tina,Loyola University Chicago,Nursing,IL,4,F,,41.8974042,-87.6249021
-Moreno,Tambria,Los Angeles Film School,Recording Arts,CA,2,F,,34.0764676,-118.4400131
-Arndt,John,Colorado School of Mines,Chemistry,CO,4,M,,39.7512306,-105.2226523
-DeSimone,Vanessa,Ventura College ,Early Childhood Special Ed.,CA,C,F,,34.275772,-119.23049
-Munro,Kiley,CSU San Marcos,Undeclared,CA,4,F,,33.4870402,-117.1033409
-Herrera,Israel,Universal Technical Institute,Mechanical Engineering,CA,T,M,,38.6456586,-121.5295068
-Perez,Estevan,Universal Technical Institute,Automotive/Diesel ,CA,T,M,,38.6456586,-121.5295068
-Ye,Yu Shan,Pepperdine University`,Finance,CA,4,M,,34.0414202,-118.7095019
-Diaz,Allondra,San Diego State University?,Nursing,CA,4,F,,32.7747703,-117.071665
-Wisneski,Kelly,Washington University in St. Louis,Architecture,MO,4,F,,38.6487895,-90.31079620000001
-O'Shea,Katherine,Univeristy of Missouri at Columbia,Business marketing,MO,4,F,,38.9457795,-92.3680768
-Lane,Emily,Brooks Institute,Photography,CA,T,F,,34.4368006,-119.6951815
-Rucker,CJ,Louisiana State University,Public Relations,LA,4,M,,30.4132579,-91.1800023
-Mundwiller,Rebecca,John Paul the Great Catholic University,Communications Media,CA,4,F,,33.1205756,-117.0824506
-Neveu,Alison,Amherst College,Economics,MA,4,F,,42.3709104,-72.5170028
-Thomas,Benjamin,London School of Economics,Government,England,4,M,,51.5144077,-0.1173766
-Hernandez,Makaila,Sonoma State,Kinesiology,CA,4,F,,38.291859,-122.4580356
-Allen,Justice,CLU,Business Management,CA,4,F,,34.2243386,-118.877221
-Cervelli,Alison,CLU,Multimedia,CA,4,F,,34.2243386,-118.877221
-Godinez,Graciela,CLU,Liberal Arts,CA,4,F,,34.2243386,-118.877221
-Jarjour,Mary,CLU,Nursing,CA,4,F,,34.2243386,-118.877221
-Morton,Sam,CLU,Music Production,CA,4,M,,34.2243386,-118.877221
-Pineda,Esteban,CLU,Undeclared,CA,4,M,,34.2243386,-118.877221
-Schentrup,Teigan,CLU,Excercise Science,CA,4,F,,34.2243386,-118.877221
-Scott,Patrick,CLU,Accounting,CA,4,M,,34.2243386,-118.877221
-Ange,Tyler,CSU Northridge,Electrical Engineering,CA,4,M,,34.2409416,-118.5260288
-Arjon,Laura,CSU Northridge,Accounting,CA,4,F,,34.2409416,-118.5260288
-Ayuso,Abril,CSU Northridge,Criminal Justice,CA,4,F,,34.2409416,-118.5260288
-Ayuso,America,CSU Northridge,Undeclared,CA,4,F,,34.2409416,-118.5260288
-Cardenas,Jocelyn,CSU Northridge,Child Development,CA,4,F,,34.2409416,-118.5260288
-Cardilino,Allyson,CSU Northridge,Nursing,CA,4,F,,34.2409416,-118.5260288
-Chelebian,Courtney,CSU Northridge,Nursing,CA,4,F,,34.2409416,-118.5260288
-Esseff,Chad,CSU Northridge,Business,CA,4,M,,34.2409416,-118.5260288
-Geiser,Nicole,CSU Northridge,Political Science,CA,4,F,,34.2409416,-118.5260288
-Herold,Austin,CSU Northridge,Communications,CA,4,M,,34.2409416,-118.5260288
-LeGault,Ryan,CSU Northridge,Music/Psychology,CA,4,M,,34.2409416,-118.5260288
-Mantta,Eric,CSU Northridge,Undeclared,CA,4,M,,34.2409416,-118.5260288
-Ortega,Andrea,CSU Northridge,Psychology,CA,4,F,,34.2409416,-118.5260288
-Rivera,Angel,CSU Northridge,Kinesiology,CA,4,M,,34.2409416,-118.5260288
-Shahamat,PJ,CSU Northridge,Electrical Engineering,CA,4,M,,34.2409416,-118.5260288
-Simonsgaard,Jackson,CSU Northridge,Undeclared,CA,4,M,,34.2409416,-118.5260288
-Voorhies,Savannah,CSU Northridge,Kinesiology,CA,4,F,,34.2409416,-118.5260288
-Crongeyer,Grant,CSU Northridge ,Electrical Engineering,CA,4,M,,34.2409416,-118.5260288
-Bloomquist,Angelica,San Diego State University,Applied Mathematics,CA,4,F,,32.7747703,-117.071665
-Lee,Griffen,San Diego State University,Marketing,CA,4,M,,32.7747703,-117.071665
-Peratis,Angela,San Diego State University,Criminal Justice,CA,4,F,,32.7747703,-117.071665
-Powers,Nathan,San Diego State University,Microbiology,CA,4,M,,32.7747703,-117.071665
-Robottom,Cameron,San Diego State University,Business,CA,4,M,,32.7747703,-117.071665
-Stapp,Quinn,San Diego State University,Business,CA,4,M,,32.7747703,-117.071665
-Orr,Benjamin,UCLA,Math/Econ,CA,4,M,,34.068921,-118.4451812
-Quinn,Anna,UCLA,Chemistry,CA,4,F,,34.068921,-118.4451812
-Quinn,Ashley,UCLA,Applied Mathematics,CA,4,F,,34.068921,-118.4451812
-Strumwasser,Roxanna,UCLA,Psychology,CA,4,F,,34.068921,-118.4451812
-Geiger,Gavin,Northern Arizona University,Mechanical Engineering,AZ,4,M,,35.1898983,-111.6527599
-Noble,Jill,Northern Arizona University,Nursing,AZ,4,F,,35.1898983,-111.6527599
-Pettek,Brody,Northern Arizona University,Kinesiology,AZ,4,M,,35.1898983,-111.6527599
-Raftery,Rayanna,Northern Arizona University,Criminology,AZ,4,f,,35.1898983,-111.6527599
-Shields,Emily,Northern Arizona University,Business Marketing,AZ,4,F,,35.1898983,-111.6527599
-Sunseri,Taylor,Northern Arizona University,Chemistry,AZ,4,F,,35.1898983,-111.6527599
-Valdez,Glenn,Northern Arizona University,Business,AZ,4,F,,35.1898983,-111.6527599
-McKinley,Jacqueline,BYU (Idaho),Business,ID,4,F,,43.8125918,-111.7852624
-Murphy,Brooke,BYU (Idaho),Dance Education,ID,4,F,,43.8125918,-111.7852624
-Snyder,Zachary,BYU (Idaho),Mechanical Engineering,ID,4,M,,43.8125918,-111.7852624
-Sutherland,Savannah,BYU (Idaho),Business Management,ID,4,F,,43.8125918,-111.7852624
-Zierenberg,Courtney,BYU (Idaho),Graphic Design,ID,4,F,,43.8125918,-111.7852624
-Bermann,Allison,University of St. Andrews,Social Anthropology,Scotland,4,F,,56.3416934,-2.7927522
-Elia,Alexandra,University of St. Andrews,Neuroscience,Scotland,4,F,,56.3416934,-2.7927522
-Callahan,Erin,Northeastern University,Marketing,MA,4,F,,42.3398067,-71.0891717
-Riemen,Nick,Northeastern University,International Business,MA,4,M,,42.3398067,-71.0891717
-Geiser,Jessica,CSU Fullerton,Criminal Justice,CA,4,F,,33.8831638,-117.8868519
-De Souza,Kevin,University of Arizona,Accounting,AZ,4,M,,33.4522217,-112.0662126
-Hernandez,Alexander,University of Arizona,Business,AZ,4,M,,33.4522217,-112.0662126
-Karpf,Amanda,Pierce Community College,Deaf Studies,CA,C,F,,37.4700751,-122.1562877
-Casebolt,Patrick,USC,Health promotion and disease prevention studies,CA,4,M,,34.061984,-118.2014089
-Paley,Jacob,USC,Art,CA,4,M,,34.061984,-118.2014089
-Piper,Henry,USC,Percussion,CA,4,M,,34.061984,-118.2014089
-Flynn,Dalton,University of Notre Dame,Chemical Engineering,IN,4,M,,41.7052193,-86.2353067
-Nitka,Ben,American University of Paris,Undeclared,France,4,M,,48.8593229,2.3038928
-Behnke,Megan,San Diego Mesa College,Art/Fashion Illustration,CA,C,F,,32.8050306,-117.1688084
-Shearer,Gavin,San Diego Mesa College,Marketing,CA,4,M,,32.8050306,-117.1688084
-Stone,Jamie,University of Kansas,Communications,CA,4,F,,39.0350781,-95.6999192
-Arteaga,Melissa,Pierce CC,Undeclared,CA,C,F,,37.4700751,-122.1562877
-Bernstein,Kayla,Pierce CC,Undeclared,CA,C,F,,37.4700751,-122.1562877
-Baek,Freedom,Santa Monica CC,Mechanical Engineering,CA,C,M,,34.0378913,-118.2789637
-Barbarotto,Francesca,Santa Monica CC,Public Relations,CA,C,F,,34.0378913,-118.2789637
-Chery,Chrisauna,Santa Monica CC,Spanish,CA,2,F,,34.0378913,-118.2789637
-McCormick,Aaron,Santa Monica CC,Communications,CA,C,M,,34.0378913,-118.2789637
-Henley,Chas,California Baptist University,Construction Management,CA,4,M,,33.9284067,-117.4255596
-Abdallat,Omar,Moorpark CC,Undeclared ,CA,C,M,,36.778261,-119.4179324
-Alexander,Madeline,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Althaus,Alex,Moorpark CC,"Film, Broadcasting",CA,C,M,,36.778261,-119.4179324
-Arterburn,Daniel,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Avalos,Jose,Moorpark CC,"Criminal Justice, Business",CA,C,M,,36.778261,-119.4179324
-Ayala,Ana,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Babbitt,Aujelle,Moorpark CC,"Music, Elementary Education",CA,C,F,,36.778261,-119.4179324
-Babich,Gary,Moorpark CC,Electrical Engineering,CA,C,M,,36.778261,-119.4179324
-Baker,Joe,Moorpark CC,Physical Therapy,CA,C,M,,36.778261,-119.4179324
-Balam,Rodney,Moorpark CC,Art,CA,C,M,,36.778261,-119.4179324
-Barbera,Sheryl,Moorpark CC,English/Liberal Arts,CA,C,F,,36.778261,-119.4179324
-Barrett,Riley,Moorpark CC,Sound Engineering,CA,C,M,,36.778261,-119.4179324
-Bartholomew,Summer,Moorpark CC,Art,CA,C,F,,36.778261,-119.4179324
-Bay,Harris,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Beninati,Preston,Moorpark CC,Video Production,CA,C,M,,36.778261,-119.4179324
-Benson,Sima Jo,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Berg,Hayden,Moorpark CC,History,CA,C,M,,36.778261,-119.4179324
-Bertrand,Kiley,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Bloom,Summer,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Breazell,Damon,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Brooks,Emily,Moorpark CC,Business Management,CA,C,F,,36.778261,-119.4179324
-Brown,Carly,Moorpark CC,Dance/Special Education,CA,C,F,,36.778261,-119.4179324
-Bryden,Nicholas,Moorpark CC,English/Business,CA,C,M,,36.778261,-119.4179324
-Buenrostro,Susana,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Buller,Diego,Moorpark CC,Art,CA,C,M,,36.778261,-119.4179324
-Busch,Haley,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Canzano,Cassandra,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Carbine,Amy,Moorpark CC,Radiology,CA,C,F,,36.778261,-119.4179324
-Cardenas,Amador,Moorpark CC,Psychology,CA,C,M,,36.778261,-119.4179324
-Cardoza,Christian,Moorpark CC,History,CA,C,M,,36.778261,-119.4179324
-Carson,Kaylie,Moorpark CC,Kinesiology,CA,C,F,,36.778261,-119.4179324
-Casey,Molly,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Chandler,Jessica,Moorpark CC,Business,CA,C,F,,36.778261,-119.4179324
-Chilian,Nicolette,Moorpark CC,Theater Arts,CA,C,F,,36.778261,-119.4179324
-Chun,Havilah,Moorpark CC,Zoology,CA,C,F,,36.778261,-119.4179324
-Clifford,Rachael,Moorpark CC,Dietary Education,CA,C,F,,36.778261,-119.4179324
-Colella,Luigi,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Cuizon Burden,Kahlil,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Darough,Alexa,Moorpark CC,Psychology,CA,C,F,,36.778261,-119.4179324
-DeMirjian,Nick,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-DeSimone,Amanda,Moorpark CC,Criminal Psycology,CA,C,F,,36.778261,-119.4179324
-Devine,Madison,Moorpark CC,Undecided,CA,C,F,,36.778261,-119.4179324
-Diego,Krizianne,Moorpark CC,Nursing,CA,C,F,,36.778261,-119.4179324
-Donley,Chad,Moorpark CC,Film Production,CA,C,M,,36.778261,-119.4179324
-Dorman,Brandalyn,Moorpark CC,Film,CA,C,F,,36.778261,-119.4179324
-Dorsey,Steven,Moorpark CC,History/Law,CA,C,M,,36.778261,-119.4179324
-Eastman,Nicholas,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Egertson,Marie,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Ewing,Natalie,Moorpark CC,Elementary Education,CA,C,F,,36.778261,-119.4179324
-Fancy,Mackenzie,Moorpark CC,Forestry,CA,C,F,,36.778261,-119.4179324
-Feb,Jacob,Moorpark CC,Business,CA,C,M,,36.778261,-119.4179324
-Feldman,Emilia,Moorpark CC,Sports Medicine,CA,C,F,,36.778261,-119.4179324
-Ferry,Tristan,Moorpark CC,English Literature,CA,C,M,,36.778261,-119.4179324
-Flores,Antonio,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Fortag,Juliana,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Fung,Max,Moorpark CC,Liberal Arts,CA,C,M,,36.778261,-119.4179324
-Garcia,Jocelyn,Moorpark CC,Nursing,CA,C,F,,36.778261,-119.4179324
-Garcia,Lanyssa,Moorpark CC,Psychology,CA,C,F,,36.778261,-119.4179324
-Garcia,Phillip,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Giddings,James,Moorpark CC,English,CA,C,M,,36.778261,-119.4179324
-Gildea,Matthew,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Glath,Christina,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Gourlay,Kendall,Moorpark CC,Sonography,CA,C,F,,36.778261,-119.4179324
-Green,Madison,Moorpark CC,Psychology,CA,C,F,,36.778261,-119.4179324
-Guenthner,Brieana Vida,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Guzman,Ezequiel,Moorpark CC,Chiropractics,CA,C,M,,36.778261,-119.4179324
-Haile,Donnie,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Hans,Gregory,Moorpark CC,Kinesiology,CA,C,M,,36.778261,-119.4179324
-Hanson,Matthew,Moorpark CC,Human Behavior,CA,C,M,,36.778261,-119.4179324
-Hay,Griffin,Moorpark CC,Computer Science,CA,C,M,,36.778261,-119.4179324
-Healy,Megan,Moorpark CC,Nursing,CA,C,F,,36.778261,-119.4179324
-Heller,Brittney,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Henderson,Cassidy,Moorpark CC,Biology,CA,C,F,,36.778261,-119.4179324
-Heninger,Tori,Moorpark CC,Sociology,CA,C,F,,36.778261,-119.4179324
-Hernandez,Darvin,Moorpark CC,Information Technology,CA,C,M,,36.778261,-119.4179324
-Higareda,Maria,Moorpark CC,Criminal Justice/Psychology,CA,C,F,,36.778261,-119.4179324
-Hoffmeier,Danny,Moorpark CC,Theater,CA,C,M,,36.778261,-119.4179324
-Hübenthal,Taylor,Moorpark CC,Art,CA,C,M,,36.778261,-119.4179324
-Huchin,Pablo,Moorpark CC,Accounting,CA,C,M,,36.778261,-119.4179324
-Isa,Brandon,Moorpark CC,Dance,CA,C,,,36.778261,-119.4179324
-Jacobs,Nick,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Jaimerena,Jeanett,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Jansen,Alexis,Moorpark CC,Early Education,CA,C,F,,36.778261,-119.4179324
-Joffe,Benjamin,Moorpark CC,Machining,CA,C,M,,36.778261,-119.4179324
-Kaltenbach,Benjamin,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Kaltenbrunner,Paula,Moorpark CC,Architecture,CA,C,F,,36.778261,-119.4179324
-Kasper,Justin,Moorpark CC,Psychology,CA,C,M,,36.778261,-119.4179324
-Kaufman,Cortni,Moorpark CC,Psychology or English,CA,C,F,,36.778261,-119.4179324
-Keene,Brooke,Moorpark CC,Biology,CA,C,F,,36.778261,-119.4179324
-Kemerling,Topanga,Moorpark CC,Spanish,CA,C,F,,36.778261,-119.4179324
-Kim,Erica,Moorpark CC,English,CA,C,F,,36.778261,-119.4179324
-Kocipak,Jennifer,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Koshofer,Nicholas,Moorpark CC,Business and Marketing,CA,C,M,,36.778261,-119.4179324
-Krietzberg,Sandy,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Kung,Derek,Moorpark CC,Biochemical Engineering,CA,C,M,,36.778261,-119.4179324
-Kurges,Kayla,Moorpark CC,Nursing,CA,C,F,,36.778261,-119.4179324
-Lacy,Wade,Moorpark CC,Writing,CA,C,M,,36.778261,-119.4179324
-Lade,Tim,Moorpark CC,Marketing,CA,C,M,,36.778261,-119.4179324
-Lafayette,Ally,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Larry,Josef,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Larson,Andrew,Moorpark CC,Mechanical Engineering,CA,C,M,,36.778261,-119.4179324
-Lee,Aaron,Moorpark CC,International Relations,CA,C,M,,36.778261,-119.4179324
-Lee,Arik,Moorpark CC,Computer Science,CA,C,M,,36.778261,-119.4179324
-Leko,Anne,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Loiacono,Elizabeth,Moorpark CC,Environmental Studies,CA,C,F,,36.778261,-119.4179324
-Lopez,Cristian,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Lopez,Jose,Moorpark CC,Radiology Technology,CA,C,M,,36.778261,-119.4179324
-Lorenz,Brett,Moorpark CC,Teacher,CA,C,M,,36.778261,-119.4179324
-Lorenzo,Leslie,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Mac Donald,Heather,Moorpark CC,Photography,CA,C,F,,36.778261,-119.4179324
-MacPhee,Ian,Moorpark CC,English,CA,C,M,,36.778261,-119.4179324
-Marsh,Mitchell,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Martinez,Elizabeth,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Martinez,Michelle,Moorpark CC,Child Development,CA,C,F,,36.778261,-119.4179324
-Martyn,Francis,Moorpark CC,Computer Science,CA,C,M,,36.778261,-119.4179324
-Mascaro,Anna,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Matheson,Alec,Moorpark CC,Music Production,CA,C,M,,36.778261,-119.4179324
-Matin,Sadira,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Matsuura,Cole,Moorpark CC,Business,CA,C,M,,36.778261,-119.4179324
-McKeehan,Sean,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-McNeil,Taylor,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-McPhillips,Gannon,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-McQuillan,James,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Medrano,Kim,Moorpark CC,Nursing,CA,C,F,,36.778261,-119.4179324
-Mejia,Jazmin,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Meros,Austin,Moorpark CC,Music,CA,C,M,,36.778261,-119.4179324
-Merrick,Emily,Moorpark CC,Business,CA,C,F,,36.778261,-119.4179324
-Meuschke,Rebecca,Moorpark CC,Psychology,CA,C,F,,36.778261,-119.4179324
-Mohammadi,Sophia,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Montes,Taylor,Moorpark CC,Nursing,CA,C,F,,36.778261,-119.4179324
-Morris,Kyle,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Morrow,Christopher,Moorpark CC,Criminal Justice,CA,C,M,,36.778261,-119.4179324
-Mosher,Timothy,Moorpark CC,English/Auto Engineering,CA,C,M,,36.778261,-119.4179324
-Newman,Courtney,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Nguyen,Justin,Moorpark CC,Business,CA,C,M,,36.778261,-119.4179324
-Nimie,Jessica,Moorpark CC,English,CA,C,F,,36.778261,-119.4179324
-Nissen,Derrick,Moorpark CC,"English, Math",CA,C,M,,36.778261,-119.4179324
-Noad,Shawn,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Norphard,Payton,Moorpark CC,ASL/English,CA,C,F,,36.778261,-119.4179324
-Olney,Allison,Moorpark CC,Deaf Studies,CA,C,F,,36.778261,-119.4179324
-Orfanos,Tymaeus,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Osborne,Russell,Moorpark CC,EMT,CA,C,M,,36.778261,-119.4179324
-Palmer,Rachel,Moorpark CC,Psychology,CA,C,F,,36.778261,-119.4179324
-Paneiko,Jenna,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Pasky,Nicholas,Moorpark CC,Kinesiology,CA,C,M,,36.778261,-119.4179324
-Patey,Heather,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Peña,Jose,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Perez,Kristen,Moorpark CC,Music Theory and Composition,CA,C,F,,36.778261,-119.4179324
-Perkins,Andy,Moorpark CC,Kinesiology,CA,C,M,,36.778261,-119.4179324
-Perry,Ashley,Moorpark CC,Teaching,CA,C,F,,36.778261,-119.4179324
-Pierce,Sierra,Moorpark CC,Nursing,CA,C,F,,36.778261,-119.4179324
-Pineda,Alexis,Moorpark CC,Medicine,CA,C,F,,36.778261,-119.4179324
-Poe,Cameron,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Priest,Andrew,Moorpark CC,Business,CA,C,M,,36.778261,-119.4179324
-Queral,Lei Lani,Moorpark CC,Criminal Justice,CA,C,F,,36.778261,-119.4179324
-Ragusin,Andy,Moorpark CC,Communications,CA,C,M,,36.778261,-119.4179324
-Reed,Hanna,Moorpark CC,Theater/Psychology,CA,C,F,,36.778261,-119.4179324
-Reyes,Erik,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Riggan,Sabrina,Moorpark CC,Psychology,CA,C,F,,36.778261,-119.4179324
-Rodriguez,Julianne,Moorpark CC,Kinesiology,CA,C,F,,36.778261,-119.4179324
-Rogers,Kassie,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Rowe,Kevin,Moorpark CC,Computer Programming,CA,C,M,,36.778261,-119.4179324
-Ruble,Elizabeth,Moorpark CC,English,CA,C,F,,36.778261,-119.4179324
-Rummel,Dylan,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Santo,Shannon,Moorpark CC,Psychology,CA,C,F,,36.778261,-119.4179324
-Santos,Odilon,Moorpark CC,Business,CA,C,M,,36.778261,-119.4179324
-Sarabia,Cristian,Moorpark CC,Business,CA,C,M,,36.778261,-119.4179324
-Saranj,Golzar,Moorpark CC,Nursing,CA,C,F,,36.778261,-119.4179324
-Sauber,Matthew,Moorpark CC,Computer Science,CA,C,M,,36.778261,-119.4179324
-Schmitt,Nicole,Moorpark CC,Sociology,CA,C,F,,36.778261,-119.4179324
-Shanaberger,Shayden,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Sheppard,Raquel,Moorpark CC,Elementary Education,CA,C,F,,36.778261,-119.4179324
-Shipley,Austin,Moorpark CC,Exotic Animal Training/Criminology/Psychology,CA,C,F,,36.778261,-119.4179324
-Slattum,Espen,Moorpark CC,Undelcared,CA,C,M,,36.778261,-119.4179324
-Smith,Daniel,Moorpark CC,Marketing,CA,C,M,,36.778261,-119.4179324
-Solis,Jessica,Moorpark CC,Exotic Animal Training,CA,C,F,,36.778261,-119.4179324
-Soliz,Jonathan,Moorpark CC,Business,CA,C,M,,36.778261,-119.4179324
-Sosa,Jacob,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Stewart,Taylor,Moorpark CC,Communications,CA,C,F,,36.778261,-119.4179324
-Stout,Madeline,Moorpark CC,Criminal Justice,CA,C,F,,36.778261,-119.4179324
-Stringfellow,Devin,Moorpark CC,Civil Engineering ,CA,C,M,,36.778261,-119.4179324
-Swan,Robert,Moorpark CC,Sports Medicine,CA,C,M,,36.778261,-119.4179324
-Tapia,Gabriella,Moorpark CC,Theater,CA,C,F,,36.778261,-119.4179324
-Taylor,Avery,Moorpark CC,Aviation/Mathematics,CA,C,M,,36.778261,-119.4179324
-Tonsbeek,Tyler,Moorpark CC,Criminal Justice,CA,C,M,,36.778261,-119.4179324
-Torres,Alec,Moorpark CC,Business,CA,C,M,,36.778261,-119.4179324
-Trent,Parker,Moorpark CC,Music/ Business,CA,C,M,,36.778261,-119.4179324
-Trethaway,Kathleen,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Turner,Alexander,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Tuyub,Melanie,Moorpark CC,French,CA,C,F,,36.778261,-119.4179324
-Valdez,Gabriel,Moorpark CC,Creative Writing,CA,C,M,,36.778261,-119.4179324
-Villa,Alvaro,Moorpark CC,Applied Physics,CA,C,M,,36.778261,-119.4179324
-Villasenor,Raul,Moorpark CC,Nursing,CA,C,M,,36.778261,-119.4179324
-Wakefield,Cameron,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Warr,Austin,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Webb,Hailey,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Williams,Garret,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Willis,Bramley,Moorpark CC,Undeclared ,CA,C,M,,36.778261,-119.4179324
-Yarnall,Casey,Moorpark CC,Nursing,CA,C,F,,36.778261,-119.4179324
-Ybarra,Marisa,Moorpark CC,Undeclared,CA,C,F,,36.778261,-119.4179324
-Zalal,Mariam,Moorpark CC,Pharmacy,CA,C,F,,36.778261,-119.4179324
-Zarate,Selena,Moorpark CC,Veterinary Medicine,CA,C,F,,36.778261,-119.4179324
-Zarkowski,Kenny,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Zedan,Iliana,Moorpark CC,Biology,CA,C,F,,36.778261,-119.4179324
-Zepeda,Manuel,Moorpark CC,Undeclared,CA,C,M,,36.778261,-119.4179324
-Blum,Eric,University of Oregon,Human Physiology,CA,4,M,,37.4350422,-122.1335755
-Davis,Alyssa,University of Oregon,Journalism,OR,4,F,,37.4350422,-122.1335755
-O'Malley,Devin,University of Oregon,Undeclared,OR,4,F,,37.4350422,-122.1335755
-Kissick,Cole,Oxnard Community College,Paramedic,CA,2,M,,34.165953,-119.1575081
-Marks,Allison,Bethlehem College and Seminary,Biblical Theological Studies,MN,4,F,,46.729553,-94.6858998
-Mendoza,Brianna,Paul Mitchell The School,C,CA,T,F,,34.1549264,-118.4676886
-Ferguson,Keenan,UCI,Materials Science Engineering,CA,4,M,,33.6404952,-117.8442962
-Minar,Sydney,UCI,Biochemical Engineering,CA,4,F,,33.6404952,-117.8442962
-Belko,Kelly,San Francisco State University,Undeclared,CA,4,F,,37.721897,-122.4782094
-Pagett,Kreider,San Francisco State University,Music,CA,4,M,,37.721897,-122.4782094
-Quintero,Robert,Everest College,Undeclared,CA,T,M,,34.080232,-118.148676
-Sanchez,Christian,Everest College,Massage Therapy,VA,T,M,,34.080232,-118.148676
-Abrams,Emily,University of Hawaii at Manoa,International Marketing,HI,4,F,,21.2998136,-157.8176117
-Bleiberg,Tyler,Ventura CC,Bioengineering,CA,C,M,,34.209208,-119.0720102
-Cookus,Stephen,Ventura CC,Undeclared,CA,C,M,,34.209208,-119.0720102
-Ehret,Annette,Ventura CC,Nursing,CA,C,F,,34.209208,-119.0720102
-King,Brian,Ventura CC,Undeclared,CA,C,M,,34.209208,-119.0720102
-Lewis,Tracy,Ventura CC,EMT/Paramedic,CA,C,F,,34.209208,-119.0720102
-Mahakian,Timothy,Ventura CC,Undeclared,CA,C,M,,34.209208,-119.0720102
-Oergel,Megan,Ventura CC,Photography,CA,C,F,,34.209208,-119.0720102
-Josephson,Kyra,Duke University,Political Science,NC,4,F,,36.0014258,-78.9382286
-Roca,Daisy,Saddleback College,Business Administration,CA,C,F,,33.5511196,-117.6643397
-Sylvers,Laura,Tufts University,Political Science,CA,4,F,,32.7759605,-117.0366831
-Cvjetnicanin,Nicole,Gettysburg College,Public Policy/Political Science,PA,4,F,,39.835958,-77.23723079999999
-Barchilon,Michael,Cuesta CC,Undeclared,CA,C,M,,37.3388998,-120.470114
-Hunn,Joey,University of Wyoming,Criminal Justice,WY,4,M,,41.3130972,-105.5796706
-Müller,Sarah,Portland State University,Art History/French,OR,4,F,,45.51233,-122.6842093
-Marino,Stephanie,Cal State Northridge,Liberal Studies/Elementary Special Ed,CA,4,F,,34.2381251,-118.530123
-Solis,Jonathan,University of New Mexico,Interdisciplinary Film and Digital Media,NM,4,M,,35.0843441,-106.6197553
-Johnsen,Emilee,Loyola Marymount University,Psychology,CA,4,F,,33.9704172,-118.4174046
-Olivas,Gabby,Belmont University,Music Business,TN,4,F,,36.1356505,-86.79481729999999
-Reich,Meghan,Belmont University,Public Relations,TN,4,F,,36.1356505,-86.79481729999999
-Myers,Colton,Cal Poly Pomona,Chemical Engineering,CA,4,M,,34.0593197,-117.8194625
-Vaughn,Katerina,Cal Poly Pomona,Mechanical Engineering,CA,4,F,,34.0593197,-117.8194625
-Anderson,Lauren,Pepperdine University,Nutritional Science,CA,4,F,,34.0414202,-118.7095019
-Dueber,Natalee,United States Air Force Academy,Behavioral Sciences,CO,4,F,,38.9983573,-104.8617533
-Dixon,Emmett,Cal Maritime,Marine Transportation,CA,4,M,,38.0683458,-122.2307879
+Last Name,First Name,University,Major,State,Type,Gender,lat,lng
+Nitka,Ben,American University of Paris,Undeclared,France,4,M,48.8593229,2.3038928
+Neveu,Alison,Amherst College,Economics,MA,4,F,42.3709104,-72.5170028
+Arndt,James,Arizona State University,Chemical Engineering,AZ,4,M,33.4214736,-111.934023
+Macleod,Christy,Arizona State University,Kinesiology,AZ,4,F,33.4214736,-111.934023
+Moore,Cameron,Arizona State University,Business,AZ,4,M,33.4214736,-111.934023
+Stewart,Jordan,Arizona State University,Community Sports Management,AZ,4,F,33.4214736,-111.934023
+Nilsson,Emma,Art Institute of CA San Diego,Photography,CA,4,F,32.7312287,-117.1510049
+Olivas,Gabby,Belmont University,Music Business,TN,4,F,36.1356505,-86.7948173
+Reich,Meghan,Belmont University,Public Relations,TN,4,F,36.1356505,-86.7948173
+Marks,Allison,Bethlehem College and Seminary,Biblical Theological Studies,MN,4,F,46.729553,-94.6858998
+Lopez,Jonathan,Boston University,Marketing,MA,4,M,42.3507543,-71.1073183
+Mahler,Andrew,Boston University,Biomedical Engineering,MA,4,M,42.3507543,-71.1073183
+Lane,Emily,Brooks Institute,Photography,CA,T,F,34.4368006,-119.6951815
+Baca,Jacob,Bryant University,Business,RI,4,M,41.9210684,-71.5382698
+McKinley,Jacqueline,BYU (Idaho),Business,ID,4,F,43.8125918,-111.7852624
+Murphy,Brooke,BYU (Idaho),Dance Education,ID,4,F,43.8125918,-111.7852624
+Snyder,Zachary,BYU (Idaho),Mechanical Engineering,ID,4,M,43.8125918,-111.7852624
+Sutherland,Savannah,BYU (Idaho),Business Management,ID,4,F,43.8125918,-111.7852624
+Zierenberg,Courtney,BYU (Idaho),Graphic Design,ID,4,F,43.8125918,-111.7852624
+Arciga,Eddie,BYU (Provo),Dentistry,UT/LDS,4,M,40.2533647,-111.6576931
+Gouett,Brock,BYU (Provo),Undeclared,UT/LDS,4,M,40.2533647,-111.6576931
+Nickolaisen,Caleb,BYU (Provo),Undeclared,UT/LDS,4,M,40.2533647,-111.6576931
+Pomar,Caleb,BYU (Provo),Undeclared,UT/LDS,4,M,40.2533647,-111.6576931
+Porter,Delaney,BYU (Provo),Neuroscience,UT,4,F,40.2533647,-111.6576931
+Rupp,Shanna,BYU (Provo),Undeclared,UT,4,F,40.2533647,-111.6576931
+Whitworth,Alyson,BYU (Provo),Recreational Management,UT,4,F,40.2533647,-111.6576931
+Dixon,Emmett,Cal Maritime,Marine Transportation,CA,4,M,38.0683458,-122.2307879
+Myers,Colton,Cal Poly Pomona,Chemical Engineering,CA,4,M,34.0593197,-117.8194625
+Vaughn,Katerina,Cal Poly Pomona,Mechanical Engineering,CA,4,F,34.0593197,-117.8194625
+Bartak,Sarah,Cal Poly SLO,Animal Science,CA,4,F,35.3050054,-120.6624942
+Garvin,Christopher,Cal Poly SLO,Biology,CA,4,M,35.3050054,-120.6624942
+Kavanagh,Paige,Cal Poly SLO,Aerospace Engineering,CA,4,M,35.3050054,-120.6624942
+Reinach,Eli,Cal Poly SLO,General Engineering,CA,4,M,35.3050054,-120.6624942
+Sookikian,Jordan,Cal Poly SLO,Computer Science,CA,4,M,35.3050054,-120.6624942
+Spencer,Nicholas,Cal Poly SLO,Electrical Engineering,CA,4,M,35.3050054,-120.6624942
+Williams,Jake,Cal Poly SLO,Agricultural Engineering,CA,4,M,35.3050054,-120.6624942
+Marino,Stephanie,Cal State Northridge,Liberal Studies/Elementary Special Ed,CA,4,F,34.2381251,-118.530123
+Henley,Chas,California Baptist University,Construction Management,CA,4,M,33.9284067,-117.4255596
+Stroyeck,Michael,Chapman University,Undeclared,CA,4,M,33.7929818,-117.85266
+Tate,Davis,Chapman University,Finance/History,CA,4,F,33.7929818,-117.85266
+Allen,Justice,CLU,Business Management,CA,4,F,34.2243386,-118.877221
+Cervelli,Alison,CLU,Multimedia,CA,4,F,34.2243386,-118.877221
+Godinez,Graciela,CLU,Liberal Arts,CA,4,F,34.2243386,-118.877221
+Jarjour,Mary,CLU,Nursing,CA,4,F,34.2243386,-118.877221
+Morton,Sam,CLU,Music Production,CA,4,M,34.2243386,-118.877221
+Pineda,Esteban,CLU,Undeclared,CA,4,M,34.2243386,-118.877221
+Schentrup,Teigan,CLU,Excercise Science,CA,4,F,34.2243386,-118.877221
+Scott,Patrick,CLU,Accounting,CA,4,M,34.2243386,-118.877221
+King,Alex,Colgate University,Undeclared,NY,4,F,42.8173737,-75.5392442
+Arndt,John,Colorado School of Mines,Chemistry,CO,4,M,39.7512306,-105.2226523
+Lorenz,Meghan,Colorado State at Fort Collins,Microbiology,CO,4,F,40.5740329,-105.0796853
+Klein,Samuel,Copenhagen Business School,International Business,Denmark,4,M,55.6816223,12.5308045
+James,Lauren,Courtauld University,Art History,London,4,F,51.511607,-0.1173949
+Arneson,Josh,CSU Channel Islands,Psychology,CA,4,M,34.1843078,-118.882796
+Boze,Tucker,CSU Channel Islands,History,CA,4,M,34.1843078,-118.882796
+Carrillo,Estrella,CSU Channel Islands,Mathematics,CA,4,F,34.1843078,-118.882796
+Casanova,Elsie,CSU Channel Islands,Chemistry,CA,4,F,34.1843078,-118.882796
+Durkin,Bailey,CSU Channel Islands,Computer Science,CA,4,M,34.1843078,-118.882796
+Gamboa,Ayme,CSU Channel Islands,Undeclared,CA,4,F,34.1843078,-118.882796
+Kravchenko,Mariya,CSU Channel Islands,Undeclared,CA,2,F,34.1843078,-118.882796
+Kreiger,Wesley,CSU Channel Islands,Undeclared,CA,4,M,34.1843078,-118.882796
+Patlin,Daniel,CSU Channel Islands,Agricultural Business,CA,4,M,34.1843078,-118.882796
+Rector,Cassidy,CSU Channel Islands,Undeclared,CA,4,F,34.1843078,-118.882796
+Royal,Katie,CSU Channel Islands,Undeclared,CA,4,F,34.1843078,-118.882796
+Santacruz,Fabiola,CSU Channel Islands,Nursing,CA,4,F,34.1843078,-118.882796
+Swain-Cohen,Bronwyn,CSU Channel Islands,Undeclared,CA,4,F,34.1843078,-118.882796
+Trejo,Yvette,CSU Channel Islands,Political Science,CA,4,F,34.1843078,-118.882796
+Villasenor,Aldair,CSU Channel Islands,Undeclared,CA,4,M,34.1843078,-118.882796
+Willis,Charles,CSU Channel Islands,Political Science,CA,4,M,34.1843078,-118.882796
+Frattali,Danielle,CSU Channel Islands ,Anthropology,CA,4,F,34.1843078,-118.882796
+Garcia,William,CSU Chico,Business and Marketing,CA,4,M,39.7281043,-121.846213
+Geiser,Jessica,CSU Fullerton,Criminal Justice,CA,4,F,33.8831638,-117.8868519
+Miranda,Tatiana,CSU Long Beach,Kinesiology,CA,4,F,33.7838235,-118.1140904
+Duran,Gabby,CSU Monterey Bay,Business,CA,4,F,36.6530006,-121.8002501
+Page,Lucas,CSU Monterey Bay,Computer Science,CA,4,M,36.6530006,-121.8002501
+Sigelakis,Casey,CSU Monterey Bay,Undeclared,CA,4,M,36.6530006,-121.8002501
+Torosian,John,CSU Monterrey Bay,Business,CA,4,M,36.6530006,-121.8002501
+Ange,Tyler,CSU Northridge,Electrical Engineering,CA,4,M,34.2409416,-118.5260288
+Arjon,Laura,CSU Northridge,Accounting,CA,4,F,34.2409416,-118.5260288
+Ayuso,Abril,CSU Northridge,Criminal Justice,CA,4,F,34.2409416,-118.5260288
+Ayuso,America,CSU Northridge,Undeclared,CA,4,F,34.2409416,-118.5260288
+Cardenas,Jocelyn,CSU Northridge,Child Development,CA,4,F,34.2409416,-118.5260288
+Cardilino,Allyson,CSU Northridge,Nursing,CA,4,F,34.2409416,-118.5260288
+Chelebian,Courtney,CSU Northridge,Nursing,CA,4,F,34.2409416,-118.5260288
+Esseff,Chad,CSU Northridge,Business,CA,4,M,34.2409416,-118.5260288
+Geiser,Nicole,CSU Northridge,Political Science,CA,4,F,34.2409416,-118.5260288
+Herold,Austin,CSU Northridge,Communications,CA,4,M,34.2409416,-118.5260288
+LeGault,Ryan,CSU Northridge,Music/Psychology,CA,4,M,34.2409416,-118.5260288
+Mantta,Eric,CSU Northridge,Undeclared,CA,4,M,34.2409416,-118.5260288
+Ortega,Andrea,CSU Northridge,Psychology,CA,4,F,34.2409416,-118.5260288
+Rivera,Angel,CSU Northridge,Kinesiology,CA,4,M,34.2409416,-118.5260288
+Shahamat,PJ,CSU Northridge,Electrical Engineering,CA,4,M,34.2409416,-118.5260288
+Simonsgaard,Jackson,CSU Northridge,Undeclared,CA,4,M,34.2409416,-118.5260288
+Voorhies,Savannah,CSU Northridge,Kinesiology,CA,4,F,34.2409416,-118.5260288
+Crongeyer,Grant,CSU Northridge ,Electrical Engineering,CA,4,M,34.2409416,-118.5260288
+Munro,Kiley,CSU San Marcos,Undeclared,CA,4,F,33.4870402,-117.1033409
+Barchilon,Michael,Cuesta CC,Undeclared,CA,C,M,37.3388998,-120.470114
+Manzer,Derek,Culinary Institute of America,"Culinary Arts, Culinary Science",NY,4,M,41.7451415,-73.9324854
+Hicks,Spenser,Dalhousie University,Pre-med,"Nova Scotia, Canada",4,m,44.6365812,-63.5916555
+Chau,Nile,Davidson College,Computer Science,NC,4,M,35.502229,-80.847465
+Angel,Janett,Drexel University,Nursing,PA,4,F,39.9566127,-75.1899441
+Perez,Megan,Drexel University,Psychology,PN,4,F,39.9566127,-75.1899441
+Jack,Cameron,Dubspot,Sound Engineering,NY,T,M,40.7056308,-73.9780035
+Josephson,Kyra,Duke University,Political Science,NC,4,F,36.0014258,-78.9382286
+Welty,Alyssa,Eastern University,Social Work,PA,4,F,40.0506771,-75.3715124
+Peach,Kenzy,Emerson College,Acting,MA,4,F,42.3520869,-71.0657174
+Quintero,Robert,Everest College,Undeclared,CA,T,M,34.080232,-118.148676
+Sanchez,Christian,Everest College,Massage Therapy,VA,T,M,34.080232,-118.148676
+Aguilar,Rachel,Fashion Institute of Design and Merchandise,Visual Communications,CA,2,F,37.7862832,-122.4064587
+Cvjetnicanin,Nicole,Gettysburg College,Public Policy/Political Science,PA,4,F,39.835958,-77.2372308
+Cameron,Gordon,Humboldt State University,Focused History,CA,4,M,40.8772462,-124.0791632
+Elwess,Arianna,Humboldt State University,Communications,CA,4,F,40.8772462,-124.0791632
+Julier,Nick,Humboldt State University,Marine Biology,CA,4,M,40.8772462,-124.0791632
+Quispe,Sebastian,Humboldt State University,Undeclared,CA,4,M,40.8772462,-124.0791632
+Trujillo,Christopher,Humboldt State University,Psychology/Graphic Design,CA,4,M,40.8772462,-124.0791632
+Martinez,Jose,"Institute of Art, Music and Science",Music Arts,CA,C,M,33.8848833,-118.1340792
+Rhodes,Allison,Ithaca College,Business Adminstration/Management,NY,4,F,42.4221462,-76.4950805
+Mundwiller,Rebecca,John Paul the Great Catholic University,Communications Media,CA,4,F,33.1205756,-117.0824506
+Marino,Natalie,Kapiolani CC,Undeclared,CA,C,F,36.778261,-119.4179324
+Gonzalez,Damian,La Sierra University,Business,CA,4,M,33.9102688,-117.4982137
+Groenveld,Kori,Lewis and Clark College,Enviromental Studies,OR,4,F,45.4524939,-122.6773915
+Lasarow,Eliana,Lewis and Clark College,Psychology,OR,4,F,45.4524939,-122.6773915
+Thomas,Benjamin,London School of Economics,Government,England,4,M,51.5144077,-0.1173766
+Moreno,Tambria,Los Angeles Film School,Recording Arts,CA,2,F,34.0764676,-118.4400131
+Rucker,CJ,Louisiana State University,Public Relations,LA,4,M,30.4132579,-91.1800023
+Johnsen,Emilee,Loyola Marymount University,Psychology,CA,4,F,33.9704172,-118.4174046
+Smith,Tina,Loyola University Chicago,Nursing,IL,4,F,41.8974042,-87.6249021
+Kinnon,Makenna,Marinello Schools of Beauty,Cosmetology,CA,T,F,33.9935232,-117.9273875
+Niazi,Yasin,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Ortiz,Gema,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Abdallat,Omar,Moorpark CC,Undeclared ,CA,C,M,34.3031,-118.8355
+Alexander,Madeline,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Althaus,Alex,Moorpark CC,"Film, Broadcasting",CA,C,M,34.3031,-118.8355
+Arterburn,Daniel,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Avalos,Jose,Moorpark CC,"Criminal Justice, Business",CA,C,M,34.3031,-118.8355
+Ayala,Ana,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Babbitt,Aujelle,Moorpark CC,"Music, Elementary Education",CA,C,F,34.3031,-118.8355
+Babich,Gary,Moorpark CC,Electrical Engineering,CA,C,M,34.3031,-118.8355
+Baker,Joe,Moorpark CC,Physical Therapy,CA,C,M,34.3031,-118.8355
+Balam,Rodney,Moorpark CC,Art,CA,C,M,34.3031,-118.8355
+Barbera,Sheryl,Moorpark CC,English/Liberal Arts,CA,C,F,34.3031,-118.8355
+Barrett,Riley,Moorpark CC,Sound Engineering,CA,C,M,34.3031,-118.8355
+Bartholomew,Summer,Moorpark CC,Art,CA,C,F,34.3031,-118.8355
+Bay,Harris,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Beninati,Preston,Moorpark CC,Video Production,CA,C,M,34.3031,-118.8355
+Benson,Sima Jo,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Berg,Hayden,Moorpark CC,History,CA,C,M,34.3031,-118.8355
+Bertrand,Kiley,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Bloom,Summer,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Breazell,Damon,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Brooks,Emily,Moorpark CC,Business Management,CA,C,F,34.3031,-118.8355
+Brown,Carly,Moorpark CC,Dance/Special Education,CA,C,F,34.3031,-118.8355
+Bryden,Nicholas,Moorpark CC,English/Business,CA,C,M,34.3031,-118.8355
+Buenrostro,Susana,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Buller,Diego,Moorpark CC,Art,CA,C,M,34.3031,-118.8355
+Busch,Haley,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Canzano,Cassandra,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Carbine,Amy,Moorpark CC,Radiology,CA,C,F,34.3031,-118.8355
+Cardenas,Amador,Moorpark CC,Psychology,CA,C,M,34.3031,-118.8355
+Cardoza,Christian,Moorpark CC,History,CA,C,M,34.3031,-118.8355
+Carson,Kaylie,Moorpark CC,Kinesiology,CA,C,F,34.3031,-118.8355
+Casey,Molly,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Chandler,Jessica,Moorpark CC,Business,CA,C,F,34.3031,-118.8355
+Chilian,Nicolette,Moorpark CC,Theater Arts,CA,C,F,34.3031,-118.8355
+Chun,Havilah,Moorpark CC,Zoology,CA,C,F,34.3031,-118.8355
+Clifford,Rachael,Moorpark CC,Dietary Education,CA,C,F,34.3031,-118.8355
+Colella,Luigi,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Cuizon Burden,Kahlil,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Darough,Alexa,Moorpark CC,Psychology,CA,C,F,34.3031,-118.8355
+DeMirjian,Nick,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+DeSimone,Amanda,Moorpark CC,Criminal Psycology,CA,C,F,34.3031,-118.8355
+Devine,Madison,Moorpark CC,Undecided,CA,C,F,34.3031,-118.8355
+Diego,Krizianne,Moorpark CC,Nursing,CA,C,F,34.3031,-118.8355
+Donley,Chad,Moorpark CC,Film Production,CA,C,M,34.3031,-118.8355
+Dorman,Brandalyn,Moorpark CC,Film,CA,C,F,34.3031,-118.8355
+Dorsey,Steven,Moorpark CC,History/Law,CA,C,M,34.3031,-118.8355
+Eastman,Nicholas,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Egertson,Marie,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Ewing,Natalie,Moorpark CC,Elementary Education,CA,C,F,34.3031,-118.8355
+Fancy,Mackenzie,Moorpark CC,Forestry,CA,C,F,34.3031,-118.8355
+Feb,Jacob,Moorpark CC,Business,CA,C,M,34.3031,-118.8355
+Feldman,Emilia,Moorpark CC,Sports Medicine,CA,C,F,34.3031,-118.8355
+Ferry,Tristan,Moorpark CC,English Literature,CA,C,M,34.3031,-118.8355
+Flores,Antonio,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Fortag,Juliana,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Fung,Max,Moorpark CC,Liberal Arts,CA,C,M,34.3031,-118.8355
+Garcia,Jocelyn,Moorpark CC,Nursing,CA,C,F,34.3031,-118.8355
+Garcia,Lanyssa,Moorpark CC,Psychology,CA,C,F,34.3031,-118.8355
+Garcia,Phillip,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Giddings,James,Moorpark CC,English,CA,C,M,34.3031,-118.8355
+Gildea,Matthew,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Glath,Christina,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Gourlay,Kendall,Moorpark CC,Sonography,CA,C,F,34.3031,-118.8355
+Green,Madison,Moorpark CC,Psychology,CA,C,F,34.3031,-118.8355
+Guenthner,Brieana Vida,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Guzman,Ezequiel,Moorpark CC,Chiropractics,CA,C,M,34.3031,-118.8355
+Haile,Donnie,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Hans,Gregory,Moorpark CC,Kinesiology,CA,C,M,34.3031,-118.8355
+Hanson,Matthew,Moorpark CC,Human Behavior,CA,C,M,34.3031,-118.8355
+Hay,Griffin,Moorpark CC,Computer Science,CA,C,M,34.3031,-118.8355
+Healy,Megan,Moorpark CC,Nursing,CA,C,F,34.3031,-118.8355
+Heller,Brittney,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Henderson,Cassidy,Moorpark CC,Biology,CA,C,F,34.3031,-118.8355
+Heninger,Tori,Moorpark CC,Sociology,CA,C,F,34.3031,-118.8355
+Hernandez,Darvin,Moorpark CC,Information Technology,CA,C,M,34.3031,-118.8355
+Higareda,Maria,Moorpark CC,Criminal Justice/Psychology,CA,C,F,34.3031,-118.8355
+Hoffmeier,Danny,Moorpark CC,Theater,CA,C,M,34.3031,-118.8355
+Hübenthal,Taylor,Moorpark CC,Art,CA,C,M,34.3031,-118.8355
+Huchin,Pablo,Moorpark CC,Accounting,CA,C,M,34.3031,-118.8355
+Isa,Brandon,Moorpark CC,Dance,CA,C,,34.3031,-118.8355
+Jacobs,Nick,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Jaimerena,Jeanett,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Jansen,Alexis,Moorpark CC,Early Education,CA,C,F,34.3031,-118.8355
+Joffe,Benjamin,Moorpark CC,Machining,CA,C,M,34.3031,-118.8355
+Kaltenbach,Benjamin,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Kaltenbrunner,Paula,Moorpark CC,Architecture,CA,C,F,34.3031,-118.8355
+Kasper,Justin,Moorpark CC,Psychology,CA,C,M,34.3031,-118.8355
+Kaufman,Cortni,Moorpark CC,Psychology or English,CA,C,F,34.3031,-118.8355
+Keene,Brooke,Moorpark CC,Biology,CA,C,F,34.3031,-118.8355
+Kemerling,Topanga,Moorpark CC,Spanish,CA,C,F,34.3031,-118.8355
+Kim,Erica,Moorpark CC,English,CA,C,F,34.3031,-118.8355
+Kocipak,Jennifer,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Koshofer,Nicholas,Moorpark CC,Business and Marketing,CA,C,M,34.3031,-118.8355
+Krietzberg,Sandy,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Kung,Derek,Moorpark CC,Biochemical Engineering,CA,C,M,34.3031,-118.8355
+Kurges,Kayla,Moorpark CC,Nursing,CA,C,F,34.3031,-118.8355
+Lacy,Wade,Moorpark CC,Writing,CA,C,M,34.3031,-118.8355
+Lade,Tim,Moorpark CC,Marketing,CA,C,M,34.3031,-118.8355
+Lafayette,Ally,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Larry,Josef,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Larson,Andrew,Moorpark CC,Mechanical Engineering,CA,C,M,34.3031,-118.8355
+Lee,Aaron,Moorpark CC,International Relations,CA,C,M,34.3031,-118.8355
+Lee,Arik,Moorpark CC,Computer Science,CA,C,M,34.3031,-118.8355
+Leko,Anne,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Loiacono,Elizabeth,Moorpark CC,Environmental Studies,CA,C,F,34.3031,-118.8355
+Lopez,Cristian,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Lopez,Jose,Moorpark CC,Radiology Technology,CA,C,M,34.3031,-118.8355
+Lorenz,Brett,Moorpark CC,Teacher,CA,C,M,34.3031,-118.8355
+Lorenzo,Leslie,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Mac Donald,Heather,Moorpark CC,Photography,CA,C,F,34.3031,-118.8355
+MacPhee,Ian,Moorpark CC,English,CA,C,M,34.3031,-118.8355
+Marsh,Mitchell,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Martinez,Elizabeth,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Martinez,Michelle,Moorpark CC,Child Development,CA,C,F,34.3031,-118.8355
+Martyn,Francis,Moorpark CC,Computer Science,CA,C,M,34.3031,-118.8355
+Mascaro,Anna,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Matheson,Alec,Moorpark CC,Music Production,CA,C,M,34.3031,-118.8355
+Matin,Sadira,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Matsuura,Cole,Moorpark CC,Business,CA,C,M,34.3031,-118.8355
+McKeehan,Sean,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+McNeil,Taylor,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+McPhillips,Gannon,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+McQuillan,James,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Medrano,Kim,Moorpark CC,Nursing,CA,C,F,34.3031,-118.8355
+Mejia,Jazmin,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Meros,Austin,Moorpark CC,Music,CA,C,M,34.3031,-118.8355
+Merrick,Emily,Moorpark CC,Business,CA,C,F,34.3031,-118.8355
+Meuschke,Rebecca,Moorpark CC,Psychology,CA,C,F,34.3031,-118.8355
+Mohammadi,Sophia,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Montes,Taylor,Moorpark CC,Nursing,CA,C,F,34.3031,-118.8355
+Morris,Kyle,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Morrow,Christopher,Moorpark CC,Criminal Justice,CA,C,M,34.3031,-118.8355
+Mosher,Timothy,Moorpark CC,English/Auto Engineering,CA,C,M,34.3031,-118.8355
+Newman,Courtney,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Nguyen,Justin,Moorpark CC,Business,CA,C,M,34.3031,-118.8355
+Nimie,Jessica,Moorpark CC,English,CA,C,F,34.3031,-118.8355
+Nissen,Derrick,Moorpark CC,"English, Math",CA,C,M,34.3031,-118.8355
+Noad,Shawn,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Norphard,Payton,Moorpark CC,ASL/English,CA,C,F,34.3031,-118.8355
+Olney,Allison,Moorpark CC,Deaf Studies,CA,C,F,34.3031,-118.8355
+Orfanos,Tymaeus,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Osborne,Russell,Moorpark CC,EMT,CA,C,M,34.3031,-118.8355
+Palmer,Rachel,Moorpark CC,Psychology,CA,C,F,34.3031,-118.8355
+Paneiko,Jenna,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Pasky,Nicholas,Moorpark CC,Kinesiology,CA,C,M,34.3031,-118.8355
+Patey,Heather,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Peña,Jose,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Perez,Kristen,Moorpark CC,Music Theory and Composition,CA,C,F,34.3031,-118.8355
+Perkins,Andy,Moorpark CC,Kinesiology,CA,C,M,34.3031,-118.8355
+Perry,Ashley,Moorpark CC,Teaching,CA,C,F,34.3031,-118.8355
+Pierce,Sierra,Moorpark CC,Nursing,CA,C,F,34.3031,-118.8355
+Pineda,Alexis,Moorpark CC,Medicine,CA,C,F,34.3031,-118.8355
+Poe,Cameron,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Priest,Andrew,Moorpark CC,Business,CA,C,M,34.3031,-118.8355
+Queral,Lei Lani,Moorpark CC,Criminal Justice,CA,C,F,34.3031,-118.8355
+Ragusin,Andy,Moorpark CC,Communications,CA,C,M,34.3031,-118.8355
+Reed,Hanna,Moorpark CC,Theater/Psychology,CA,C,F,34.3031,-118.8355
+Reyes,Erik,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Riggan,Sabrina,Moorpark CC,Psychology,CA,C,F,34.3031,-118.8355
+Rodriguez,Julianne,Moorpark CC,Kinesiology,CA,C,F,34.3031,-118.8355
+Rogers,Kassie,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Rowe,Kevin,Moorpark CC,Computer Programming,CA,C,M,34.3031,-118.8355
+Ruble,Elizabeth,Moorpark CC,English,CA,C,F,34.3031,-118.8355
+Rummel,Dylan,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Santo,Shannon,Moorpark CC,Psychology,CA,C,F,34.3031,-118.8355
+Santos,Odilon,Moorpark CC,Business,CA,C,M,34.3031,-118.8355
+Sarabia,Cristian,Moorpark CC,Business,CA,C,M,34.3031,-118.8355
+Saranj,Golzar,Moorpark CC,Nursing,CA,C,F,34.3031,-118.8355
+Sauber,Matthew,Moorpark CC,Computer Science,CA,C,M,34.3031,-118.8355
+Schmitt,Nicole,Moorpark CC,Sociology,CA,C,F,34.3031,-118.8355
+Shanaberger,Shayden,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Sheppard,Raquel,Moorpark CC,Elementary Education,CA,C,F,34.3031,-118.8355
+Shipley,Austin,Moorpark CC,Exotic Animal Training/Criminology/Psychology,CA,C,F,34.3031,-118.8355
+Slattum,Espen,Moorpark CC,Undelcared,CA,C,M,34.3031,-118.8355
+Smith,Daniel,Moorpark CC,Marketing,CA,C,M,34.3031,-118.8355
+Solis,Jessica,Moorpark CC,Exotic Animal Training,CA,C,F,34.3031,-118.8355
+Soliz,Jonathan,Moorpark CC,Business,CA,C,M,34.3031,-118.8355
+Sosa,Jacob,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Stewart,Taylor,Moorpark CC,Communications,CA,C,F,34.3031,-118.8355
+Stout,Madeline,Moorpark CC,Criminal Justice,CA,C,F,34.3031,-118.8355
+Stringfellow,Devin,Moorpark CC,Civil Engineering ,CA,C,M,34.3031,-118.8355
+Swan,Robert,Moorpark CC,Sports Medicine,CA,C,M,34.3031,-118.8355
+Tapia,Gabriella,Moorpark CC,Theater,CA,C,F,34.3031,-118.8355
+Taylor,Avery,Moorpark CC,Aviation/Mathematics,CA,C,M,34.3031,-118.8355
+Tonsbeek,Tyler,Moorpark CC,Criminal Justice,CA,C,M,34.3031,-118.8355
+Torres,Alec,Moorpark CC,Business,CA,C,M,34.3031,-118.8355
+Trent,Parker,Moorpark CC,Music/ Business,CA,C,M,34.3031,-118.8355
+Trethaway,Kathleen,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Turner,Alexander,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Tuyub,Melanie,Moorpark CC,French,CA,C,F,34.3031,-118.8355
+Valdez,Gabriel,Moorpark CC,Creative Writing,CA,C,M,34.3031,-118.8355
+Villa,Alvaro,Moorpark CC,Applied Physics,CA,C,M,34.3031,-118.8355
+Villasenor,Raul,Moorpark CC,Nursing,CA,C,M,34.3031,-118.8355
+Wakefield,Cameron,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Warr,Austin,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Webb,Hailey,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Williams,Garret,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Willis,Bramley,Moorpark CC,Undeclared ,CA,C,M,34.3031,-118.8355
+Yarnall,Casey,Moorpark CC,Nursing,CA,C,F,34.3031,-118.8355
+Ybarra,Marisa,Moorpark CC,Undeclared,CA,C,F,34.3031,-118.8355
+Zalal,Mariam,Moorpark CC,Pharmacy,CA,C,F,34.3031,-118.8355
+Zarate,Selena,Moorpark CC,Veterinary Medicine,CA,C,F,34.3031,-118.8355
+Zarkowski,Kenny,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Zedan,Iliana,Moorpark CC,Biology,CA,C,F,34.3031,-118.8355
+Zepeda,Manuel,Moorpark CC,Undeclared,CA,C,M,34.3031,-118.8355
+Solis,Danielle,Moorpark or Ventura ,Undeclared,CA,C,F,34.285558,-118.8820414
+Callahan,Erin,Northeastern University,Marketing,MA,4,F,42.3398067,-71.0891717
+Riemen,Nick,Northeastern University,International Business,MA,4,M,42.3398067,-71.0891717
+Geiger,Gavin,Northern Arizona University,Mechanical Engineering,AZ,4,M,35.1898983,-111.6527599
+Noble,Jill,Northern Arizona University,Nursing,AZ,4,F,35.1898983,-111.6527599
+Pettek,Brody,Northern Arizona University,Kinesiology,AZ,4,M,35.1898983,-111.6527599
+Raftery,Rayanna,Northern Arizona University,Criminology,AZ,4,f,35.1898983,-111.6527599
+Shields,Emily,Northern Arizona University,Business Marketing,AZ,4,F,35.1898983,-111.6527599
+Sunseri,Taylor,Northern Arizona University,Chemistry,AZ,4,F,35.1898983,-111.6527599
+Valdez,Glenn,Northern Arizona University,Business,AZ,4,F,35.1898983,-111.6527599
+Lam,Sean,Notre Dame University ,Political Science,IN,4,M,41.7052193,-86.2353067
+Lyons,Ethan,Ohio State University,Environmental Science,OH,4,M,40.0138423,-83.0310846
+Bell,Connor,Oregon State University,Psychology,OR,4,M,44.5637355,-123.2794752
+Angulo,Rodrigo,Oxnard CC,Fire Science,CA,C,M,34.165953,-119.1575081
+Birg,Wyatt,Oxnard CC,Fire Science,CA,2,M,34.165953,-119.1575081
+Duncan,Scott,Oxnard CC,Culinary,CA,C,M,34.165953,-119.1575081
+Escobar,Jonathan,Oxnard CC,Fire Technology ,CA,C,M,34.165953,-119.1575081
+Montes,Emilio,Oxnard CC,Fire Science/tech.,CA,C,M,34.165953,-119.1575081
+Sanchez,Brian,Oxnard CC,Fire Science,CA,C,M,34.165953,-119.1575081
+Suarez,Angel,Oxnard CC,Fire Service,CA,C,M,34.165953,-119.1575081
+Kissick,Cole,Oxnard Community College,Paramedic,CA,2,M,34.165953,-119.1575081
+Mendoza,Brianna,Paul Mitchell The School,C,CA,T,F,34.1549264,-118.4676886
+Anderson,Lauren,Pepperdine University,Nutritional Science,CA,4,F,34.0414202,-118.7095019
+Ye,Yu Shan,Pepperdine University`,Finance,CA,4,M,34.0414202,-118.7095019
+Arteaga,Melissa,Pierce CC,Undeclared,CA,C,F,37.4700751,-122.1562877
+Bernstein,Kayla,Pierce CC,Undeclared,CA,C,F,37.4700751,-122.1562877
+Sedgwick,Chelsea,Pierce College,American Sign Language,CA,C,F,34.1826707,-118.5748132
+Karpf,Amanda,Pierce Community College,Deaf Studies,CA,C,F,37.4700751,-122.1562877
+Müller,Sarah,Portland State University,Art History/French,OR,4,F,45.51233,-122.6842093
+Didziulis,Claire,Reed College,Classics,OR,4,F,45.4805713,-122.6300908
+Roca,Daisy,Saddleback College,Business Administration,CA,C,F,33.5511196,-117.6643397
+Behnke,Megan,San Diego Mesa College,Art/Fashion Illustration,CA,C,F,32.8050306,-117.1688084
+Shearer,Gavin,San Diego Mesa College,Marketing,CA,4,M,32.8050306,-117.1688084
+Bloomquist,Angelica,San Diego State University,Applied Mathematics,CA,4,F,32.7747703,-117.071665
+Lee,Griffen,San Diego State University,Marketing,CA,4,M,32.7747703,-117.071665
+Peratis,Angela,San Diego State University,Criminal Justice,CA,4,F,32.7747703,-117.071665
+Powers,Nathan,San Diego State University,Microbiology,CA,4,M,32.7747703,-117.071665
+Robottom,Cameron,San Diego State University,Business,CA,4,M,32.7747703,-117.071665
+Stapp,Quinn,San Diego State University,Business,CA,4,M,32.7747703,-117.071665
+Diaz,Allondra,San Diego State University?,Nursing,CA,4,F,32.7747703,-117.071665
+Belko,Kelly,San Francisco State University,Undeclared,CA,4,F,37.721897,-122.4782094
+Pagett,Kreider,San Francisco State University,Music,CA,4,M,37.721897,-122.4782094
+Aviles,Gabriel,San Jose State University,Chemistry,CA,4,M,37.3351874,-121.8810715
+Pertessis,George,San Jose State University,Criminal Justice,CA,4,M,37.3351874,-121.8810715
+Spadaro,Matthew,San Jose State University,Computer Engineering,CA,4,M,37.3351874,-121.8810715
+Aframian,Arya,Santa Barbara CC,Business,CA,C,M,34.4282948,-119.7202494
+Brondyke,Jacob,Santa Barbara CC,Kineseology,CA,C,M,34.4282948,-119.7202494
+Cavanaugh,Connor,Santa Barbara CC,Undeclared,CA,C,M,34.4282948,-119.7202494
+Duran,Devin,Santa Barbara CC,Psychology,CA,C,M,34.4282948,-119.7202494
+Fisher,Tia,Santa Barbara CC,Undeclared,CA,2,F,34.4282948,-119.7202494
+Hinde,Liam,Santa Barbara CC,Business Administration,CA,C,M,34.4282948,-119.7202494
+Johnston,Bailee,Santa Barbara CC,Undeclared,CA,C,F,34.4282948,-119.7202494
+Kastan,Taylor,Santa Barbara CC,Psychology,CA,C,M,34.4282948,-119.7202494
+Marsh,Nicholas,Santa Barbara CC,Undeclared,CA,C,M,34.4282948,-119.7202494
+Molitor,Ian,Santa Barbara CC,Undeclared,CA,C,M,34.4282948,-119.7202494
+Mueller-Leclerc,Benjamin,Santa Barbara CC,Music,CA,C,M,34.4282948,-119.7202494
+Nunneley,Kevin,Santa Barbara CC,Business,CA,C,M,34.4282948,-119.7202494
+Pollock,Spencer,Santa Barbara CC,Business,CA,C,M,34.4282948,-119.7202494
+Rohlfing,Mason,Santa Barbara CC,Undeclared,CA,C,M,34.4282948,-119.7202494
+Saffire,Mackenzie,Santa Barbara CC,Dance,CA,2,F,34.4282948,-119.7202494
+Shidoosh,Valerie,Santa Barbara CC,Chemistry,CA,C,F,34.4282948,-119.7202494
+Stahl,Kayleigh,Santa Barbara CC,Psychology,CA,C,F,34.4282948,-119.7202494
+Sweet,Jordyn,Santa Barbara CC,Undeclared,CA,C,F,34.4282948,-119.7202494
+Tierstein,Trace,Santa Barbara CC,Fire Science,CA,C,M,34.4282948,-119.7202494
+Zavala,Amanda,Santa Barbara CC,Music,CA,C,F,34.4282948,-119.7202494
+Enriquez,Michael,Santa Clara University,Computer Engineering,CA,4,M,37.3498011,-121.939461
+Baek,Freedom,Santa Monica CC,Mechanical Engineering,CA,C,M,34.0378913,-118.2789637
+Barbarotto,Francesca,Santa Monica CC,Public Relations,CA,C,F,34.0378913,-118.2789637
+Chery,Chrisauna,Santa Monica CC,Spanish,CA,2,F,34.0378913,-118.2789637
+McCormick,Aaron,Santa Monica CC,Communications,CA,C,M,34.0378913,-118.2789637
+Nielsen,Josiah,SDSU,Biochemistry,CA,4,M,32.7747703,-117.071665
+Davis,Corey,Seattle University,Undeclared,WA,4,F,47.6105941,-122.3172284
+Rinaman,Johanna,Seattle University,Chemistry,WA,4,F,47.6105941,-122.3172284
+Simpson,Steven,Simi Valley Adult School,Welding,CA,T,M,34.2697251,-118.7345359
+Hernandez,Makaila,Sonoma State,Kinesiology,CA,4,F,38.291859,-122.4580356
+Franklin,Aubrie,Sonoma State University,Psychology,CA,4,F,38.3393866,-122.6741812
+McReynolds,Kelly,Sonoma State University,Kinesiology,CA,4,F,38.3393866,-122.6741812
+Spear,Kristen,Sonoma State University,Communications,CA,4,F,38.3393866,-122.6741812
+Bouchard,Faith,St. Joseph School of Nursing,Nursing,RI,4,F,41.8560111,-71.458783
+Manji,Kareena,St. Mary's College,Undeclared,CA,4,F,37.841201,-122.108703
+Janusz,Brooke,St. Olaf College,Economics,MN,4,F,44.461154,-93.1836963
+Sublette,Isabel,St. Olaf College,Bassoon Performance/Nursing,MN,4,F,44.461154,-93.1836963
+Jones,Austin,Stanford University,Undeclared,CA,4,M,37.4274745,-122.169719
+Jones,Ian,Stanford University,Undeclared,CA,4,M,37.4274745,-122.169719
+Sylvers,Laura,Tufts University,Political Science,CA,4,F,32.7759605,-117.0366831
+Hoffmann,Jesse,UC Berkeley,Economics,CA,4,M,37.8739132,-122.2505629
+Huang,Charley,UC Berkeley,Chemical Engineering,CA,4,M,37.8739132,-122.2505629
+Hung,Kaitlin,UC Berkeley,Marketing/Public Relations,CA,4,F,37.8739132,-122.2505629
+Kodera,Erika,UC Berkeley,Interdisciplinary Studies,CA,4,F,37.8739132,-122.2505629
+McGuigan,Jed,UC Berkeley,Bioengineering,CA,4,M,37.8739132,-122.2505629
+Rivalta,Julia,UC Berkeley,MCB Neurobiology,CA,4,F,37.8739132,-122.2505629
+Rosenberg,Paige,UC Berkeley,Environmental Science,CA,4,F,37.8739132,-122.2505629
+Tan,Joyce,UC Berkeley,Economics,CA,4,F,37.8739132,-122.2505629
+Taylor,Wyatt,UC Berkeley,Undeclared,CA,4,M,37.8739132,-122.2505629
+Coral,Kevin,UC Davis,"Neurobiology, Physiology and Behavior",CA,4,M,38.6638475,-121.287886
+Kolvenbach,Sydney,UC Davis,Biochemistry,CA,4,F,38.6638475,-121.287886
+Marvin,Jessica,UC Davis,Biology,CA,4,F,38.6638475,-121.287886
+Ishiyama,Lukas,UC Riverside,Chemistry,CA,4,M,33.973287,-117.3281109
+Laput,Sean,UC Riverside,Chemical Engineering,CA,4,M,33.973287,-117.3281109
+Jesse,Brianna,UC Santa Cruz,Environmental Science,CA,4,F,36.9913856,-122.0608718
+McCabe,Nick,UC Santa Cruz,Physics,CA,4,M,36.9913856,-122.0608718
+Romero,Sean,UC Santa Cruz,Astrophysics,CA,4,M,36.9913856,-122.0608718
+Vitela,Erick,UC Santa Cruz,Computer Engineering,CA,4,M,36.9913856,-122.0608718
+Wooster,Candace,UC Santa Cruz,Undeclared,CA,4,F,36.9913856,-122.0608718
+Tucker,Hannah,UC Santa Cruz ,Mathematics,CA,4,F,36.9913856,-122.0608718
+Hughes,Sam,UCCS,Criminology,CO,4,M,38.8916714,-104.8018342
+Ferguson,Keenan,UCI,Materials Science Engineering,CA,4,M,33.6404952,-117.8442962
+Minar,Sydney,UCI,Biochemical Engineering,CA,4,F,33.6404952,-117.8442962
+Orr,Benjamin,UCLA,Math/Econ,CA,4,M,34.068921,-118.4451812
+Quinn,Anna,UCLA,Chemistry,CA,4,F,34.068921,-118.4451812
+Quinn,Ashley,UCLA,Applied Mathematics,CA,4,F,34.068921,-118.4451812
+Strumwasser,Roxanna,UCLA,Psychology,CA,4,F,34.068921,-118.4451812
+Akahoshi,Colin,UCSB,Psychology,CA,4,M,34.4139629,-119.848947
+Anderson,Cassidy,UCSB,Chemistry,CA,4,F,34.4139629,-119.848947
+Ashcraft,Jessica,UCSB,Undeclared,CA,4,F,34.4139629,-119.848947
+Belleville,Michael,UCSB,Chemistry,CA,4,M,34.4139629,-119.848947
+Brady,Michael,UCSB,Chemistry,CA,4,M,34.4139629,-119.848947
+Carducci,Alicia,UCSB,Political Science,CA,4,F,34.4139629,-119.848947
+Chen,Andria,UCSB,Art,CA,4,F,34.4139629,-119.848947
+Lamp,Jane,UCSB,Economics,CA,4,F,34.4139629,-119.848947
+Lestak,Trevor,UCSB,Environmental Studies,CA,4,M,34.4139629,-119.848947
+Loose,Reed,UCSB,Chemical Engineering,CA,4,M,34.4139629,-119.848947
+Luedke,Kaylie,UCSB,Communications,CA,4,F,34.4139629,-119.848947
+Morales,Mayela,UCSB,French and International Relations,CA,4,F,34.4139629,-119.848947
+Papenfus,Taylor,UCSB,Pharmacology,CA,4,M,34.4139629,-119.848947
+Seguin,Shay,UCSB,Chemical Engineering,CA,4,M,34.4139629,-119.848947
+Shankel,Shelby,UCSB,Chemistry,CA,4,F,34.4139629,-119.848947
+Lestak,Tyler,UCSD,Physical Science,CA,4,M,32.8800604,-117.2340135
+Lim,Na Rae,UCSD,Visual Art-Studio,CA,4,F,32.8800604,-117.2340135
+McMinn,William,UCSD,Physiology and Neuroscience,CA,4,M,32.8800604,-117.2340135
+Riedell,Daniel,UCSD,Biochemistry,CA,4,M,32.8800604,-117.2340135
+Smith,Katherine,UCSD,Biological Science,CA,4,F,32.8800604,-117.2340135
+Dueber,Natalee,United States Air Force Academy,Behavioral Sciences,CO,4,F,38.9983573,-104.8617533
+O'Shea,Katherine,Univeristy of Missouri at Columbia,Business marketing,MO,4,F,38.9457795,-92.3680768
+Herrera,Israel,Universal Technical Institute,Mechanical Engineering,CA,T,M,38.6456586,-121.5295068
+Perez,Estevan,Universal Technical Institute,Automotive/Diesel ,CA,T,M,38.6456586,-121.5295068
+De Souza,Kevin,University of Arizona,Accounting,AZ,4,M,33.4522217,-112.0662126
+Hernandez,Alexander,University of Arizona,Business,AZ,4,M,33.4522217,-112.0662126
+Esqueda,Carter,"University of Colorado, Boulder",Biochemistry,CO,4,M,40.0075811,-105.2659419
+McDermott,Matthew,"University of Colorado, Boulder",Political Science,CO,4,M,40.0075811,-105.2659419
+Tunney,Austin,University of Florida,Criminal Justice,FL,4,M,29.645264,-82.346394
+Abrams,Emily,University of Hawaii at Manoa,International Marketing,HI,4,F,21.2998136,-157.8176117
+Stone,Jamie,University of Kansas,Communications,CA,4,F,39.0350781,-95.6999192
+Solis,Jonathan,University of New Mexico,Interdisciplinary Film and Digital Media,NM,4,M,35.0843441,-106.6197553
+Flynn,Dalton,University of Notre Dame,Chemical Engineering,IN,4,M,41.7052193,-86.2353067
+Blum,Eric,University of Oregon,Human Physiology,CA,4,M,37.4350422,-122.1335755
+Davis,Alyssa,University of Oregon,Journalism,OR,4,F,37.4350422,-122.1335755
+O'Malley,Devin,University of Oregon,Undeclared,OR,4,F,37.4350422,-122.1335755
+Solomon,Hannah,University of Redlands,Undeclared,CA,4,M,34.062685,-117.163181
+Marik,Kyle,University of Rochester,Biomedical Engineering,NY,4,M,43.1305531,-77.6260033
+Adedigba,Aderola,University of San Diego,Accounting,CA,4,M,32.7715337,-117.1900103
+McGlynn,Cole,University of San Francisco,Mechanical Engineering ,CA,4,M,37.7757492,-122.4503856
+Bermann,Allison,University of St. Andrews,Social Anthropology,Scotland,4,F,56.3416934,-2.7927522
+Elia,Alexandra,University of St. Andrews,Neuroscience,Scotland,4,F,56.3416934,-2.7927522
+Rosenfeld,Jacob,University of the Pacific,Business Administration,CA,4,M,37.9804693,-121.3101096
+Ackerman,Brennan,University of Vermont,Mechanical Engineering,VA,4,M,37.3899483,-79.1741052
+Pirtle,Tyler,University of Washington,Mechanical Engineering,WA,4,M,47.6553351,-122.3035199
+Dacanay,Matthew,University of Washington (Seattle),Physiology and 3D Forum,WA,4,M,47.6553351,-122.3035199
+Hsu,Amanda,University of Washington (Seattle),Civil and Environmental Engineering,WA,4,F,47.6553351,-122.3035199
+Micovic,Daria,University of Washington (Seattle),Electrical Engineering,WA,4,F,47.6553351,-122.3035199
+Hunn,Joey,University of Wyoming,Criminal Justice,WY,4,M,41.3130972,-105.5796706
+Casebolt,Patrick,USC,Health promotion and disease prevention studies,CA,4,M,34.061984,-118.2014089
+Paley,Jacob,USC,Art,CA,4,M,34.061984,-118.2014089
+Piper,Henry,USC,Percussion,CA,4,M,34.061984,-118.2014089
+Bentley,Marcus,Utah Valley University,Undeclared,UT/LDS,4,M,40.279792,-111.713895
+Jenkins,Emerson,Utah Valley University,Undeclared,UT,4,F,40.279792,-111.713895
+Bleiberg,Tyler,Ventura CC,Bioengineering,CA,C,M,34.209208,-119.0720102
+Cookus,Stephen,Ventura CC,Undeclared,CA,C,M,34.209208,-119.0720102
+Ehret,Annette,Ventura CC,Nursing,CA,C,F,34.209208,-119.0720102
+King,Brian,Ventura CC,Undeclared,CA,C,M,34.209208,-119.0720102
+Lewis,Tracy,Ventura CC,EMT/Paramedic,CA,C,F,34.209208,-119.0720102
+Mahakian,Timothy,Ventura CC,Undeclared,CA,C,M,34.209208,-119.0720102
+Oergel,Megan,Ventura CC,Photography,CA,C,F,34.209208,-119.0720102
+DeSimone,Vanessa,Ventura College ,Early Childhood Special Ed.,CA,C,F,34.275772,-119.23049
+Fontanilla,Lukas,Washington State University,International Business,WA,4,M,46.7319374,-117.1544219
+Wisneski,Kelly,Washington University in St. Louis,Architecture,MO,4,F,38.6487895,-90.3107962
+Ruiz,Natalie,West Coast Ultrasound Institute,N/A,CA,T,F,34.0689176,-117.571716
+Puckett,Shauna,Western Oregon University,Undeclared,OR,4,F,44.8517394,-123.2393202
+Chow,Noah,Westmont College,Undeclared,CA,4,M,34.4485027,-119.6616697
+Lichtl,Amanda,Westmont College,Liberal Studies/Elementary Education,CA,4,F,34.4485027,-119.6616697
+Stueckle,Audrey,Willamette University,Undeclared,OR,4,F,44.9371219,-123.0318004

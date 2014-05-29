@@ -1,15 +1,39 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>el mapa</title>
+    <title>el mapa</title>
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,700italic,500,300,700' rel='stylesheet' type='text/css'>
+    <style type="text/css">
+    #canvas {
+        background: #010101;
+    }
+    
+    .state {
+        fill: #222222;
+        stroke: #444444;
+    }
+    
+    .college {
+        fill: #aaaaaa;
+    }
+    
+    .arc {
+        stroke: white;
+        opacity: 0.05;
+        fill: none;
+    }
+    </style>
 </head>
 
 <body>
-<script src="http://d3js.org/d3.v3.min.js"></script>
-<script src="http://d3js.org/topojson.v1.min.js"></script>
-<script src="http://d3js.org/queue.v1.min.js"></script>
-<script src="senior.js"></script>
-<div id="vis"></div>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://d3js.org/topojson.v1.min.js"></script>
+    <script src="http://d3js.org/queue.v1.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" ></script>
+    
+    <div id="vis" style="position:absolute;top:0;left:0;width:100%;height:100%;overflow:hidden;"></div>
+    
+    <script src="senior.js"></script>
 </body>
 
 </html>
