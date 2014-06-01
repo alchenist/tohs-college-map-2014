@@ -10,7 +10,7 @@ from geopy import geocoders
 from collections import defaultdict
 
 def main():
-    colleges = defaultdict(list)
+    dests = defaultdict(list)
     g = geocoders.GoogleV3()
     fieldnames = None
 
@@ -18,28 +18,36 @@ def main():
         reader = csv.DictReader(f)
         fieldnames = reader.fieldnames
         for entry in reader:
-            if entry['Not college'] != '1':
-                colleges[entry['University'].strip()].append(entry)
+            dests[entry['Destination'].strip()].append(entry)
     
     with open(sys.argv[2], 'wb') as f:
         writer = csv.DictWriter(f, fieldnames + ['lat', 'lng'])
         writer.writeheader()
-        for college in colleges:
-            name = college
+        for dest in dests:
+            name = dest
             if len(name.split()) > 0 and name.split()[-1] == "CC":
-                name = college.split()
+                name = dest.split()
                 _ = name.pop()
                 name.append("Community College")
                 name = ' '.join(name)
+            input = name + ", " + dests[dest][0]['Location']
+            if name.startswith("LDS mission in") or name == "Global Citizen Year":
+                input = dests[dest][0]['Location']
             try:
-                _, (lat, lng) = g.geocode(name + ", " + colleges[college][0]['State'], exactly_one=True)
-                for entry in colleges[college]:
+                _, (lat, lng) = g.geocode(input, exactly_one=True)
+                if name == "N/A":
+                    lat, lng = None, None
+                for entry in dests[dest]:
                     entry['lat'] = lat
                     entry['lng'] = lng
                     writer.writerow(entry)
             except TypeError:
                 print name
-                continue
+                for entry in dests[dest]:
+                    entry['lat'] = None
+                    entry['lng'] = None
+                    writer.writerow(entry)
+
 
 
 if __name__ == "__main__":

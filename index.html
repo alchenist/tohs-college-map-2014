@@ -16,8 +16,7 @@
     
     .college {
         fill: #39E639;
-        stroke: white;
-        stroke-width: 1px;
+        opacity:0.25;
     }
     
     .arc {
@@ -48,7 +47,7 @@
     .info {
         padding: 15px 10px 15px 10px;
         font-family: 'Roboto', sans-serif;
-        background: white;
+        background: rgba(255, 255, 255, .8);
         font-size; 12px;
         box-shadow: 0 0 5px #39E639;
     }
@@ -72,7 +71,9 @@
     <div id="vis" style="position:absolute;top:0;left:0;width:100%;height:100%;overflow:hidden;"></div>
     <div id="overlay">
         <div id="title">El Mapa</div>
+        </br>
         <div class="info" id="overview"> </div>
+        </br>
         <div class="info" id="students"> <ul> </ul> </div>
     </div>    
     

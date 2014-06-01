@@ -18,7 +18,7 @@ L.tileLayer('http://{s}.tiles.mapbox.com/v3/alchenist.icdhlj9g/{z}/{x}/{y}.png',
 }).addTo(map);
 
 queue()
-    .defer(d3.csv, "data/data3.csv")
+    .defer(d3.csv, "data/data5.csv")
     .await(ready);
     
 function ready(error, data) {
@@ -54,14 +54,14 @@ function ready(error, data) {
         
     // cluster data
     data.forEach(function (d) {
-        if (d['University'] in colleges) {
-            colleges[d['University']]['students'].push(d)
+        if (d['Destination'] in colleges) {
+            colleges[d['Destination']]['students'].push(d)
         } else {
-            colleges[d['University']] = {
+            colleges[d['Destination']] = {
                 students: [d],
                 lat: d['lat'],
                 lng: d['lng'],
-                name: d['University']
+                name: d['Destination']
             }
         }
     })
@@ -84,7 +84,7 @@ function ready(error, data) {
                 .attr("r", function(d) { return r(d) * rmlt });
             d3.select("#overview").text(d.name + " " + d.students.length);
             var studentlist = d3.select("#students ul").selectAll("li").data(d.students)
-                .text(function(e) { return e['First Name'] + " " + e['Last Name'] });
+                .text(function(e) { return e['Full Name'] });
                 
             studentlist.enter().append("li")
                 .text(function(e) { return e['First Name'] + " " + e['Last Name'] });
@@ -97,10 +97,12 @@ function ready(error, data) {
                 .attr("r", r);
         })
        
-        
+    
+    console.log(carray);
+    
     svg.selectAll(".college").append("circle")
-        .attr("cx", function(d) { var loc = latLngToPoint(new L.LatLng(d['lat'], d['lng'])); return loc == null ? null : loc.x })
-        .attr("cy", function(d) { var loc = latLngToPoint(new L.LatLng(d['lat'], d['lng'])); return loc == null ? null : loc.y })
+        .attr("cx", function(d) { var loc =  d['lat'] == "" ? null :  latLngToPoint(new L.LatLng(d['lat'], d['lng'])); return loc == null ? -50000: loc.x })
+        .attr("cy", function(d) { var loc =  d['lat'] == "" ? null :  latLngToPoint(new L.LatLng(d['lat'], d['lng'])); return loc == null ? -50000 : loc.y })
         .attr("r", r);
         
     var zoomStates = {
@@ -112,8 +114,8 @@ function ready(error, data) {
         zoomStates.end = map.getZoom();
     
         svg.selectAll(".college").select("circle")
-            .attr("cx", function(d) { var loc = latLngToPoint(new L.LatLng(d['lat'], d['lng'])); return loc == null ? null : loc.x })
-            .attr("cy", function(d) { var loc = latLngToPoint(new L.LatLng(d['lat'], d['lng'])); return loc == null ? null : loc.y })
+            .attr("cx", function(d) { var loc =  d['lat'] == "" ? null :  latLngToPoint(new L.LatLng(d['lat'], d['lng'])); return loc == null ? -50000 : loc.x })
+            .attr("cy", function(d) { var loc =  d['lat'] == "" ? null :  latLngToPoint(new L.LatLng(d['lat'], d['lng'])); return loc == null ? -50000 : loc.y })
             .attr("r", function(d) { return r(d) * Math.pow(2, zoomStates.end - zoomStates.start) })
           .transition().duration(250)
             .attr("r", r);
@@ -122,7 +124,4 @@ function ready(error, data) {
     };
     
     map.on("viewreset", update);
-    
-    console.log(colleges);
-    console.log(carray);
 }
