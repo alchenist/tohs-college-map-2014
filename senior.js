@@ -3,37 +3,45 @@ var margin = {
     bottom: 0,
     left: 0,
     right: 0
-}
-
+};
 var width = parseInt(d3.select("#vis").style("width")) - margin.left - margin.right;
 var height = parseInt(d3.select("#vis").style("height")) - margin.bottom - margin.top;
-
 var map = L.map('vis').setView([39.828, -98.58], 4);
-
 map._initPathRoot();
-
 var canvas = d3.select("#vis").select("svg");
-    
 var svg = canvas.append("g")
     .attr({
         transform: "translate(" + margin.left + "," + margin.top + ")"
     });
-
 L.tileLayer('http://{s}.tiles.mapbox.com/v3/alchenist.icdhlj9g/{z}/{x}/{y}.png', {
     attribution: 'Imagery &copy; <a href="http://www.mapbox.com">Mapbox</a>' 
 }).addTo(map);
 
 queue()
-    .defer(d3.csv, "data/data2.csv")
+    .defer(d3.csv, "data/data3.csv")
     .await(ready);
     
 function ready(error, data) {
     var colleges = {};
+    var rmlt = 2;
+    
+    // helper functions and stuff
+    function r(d) {
+        return Math.sqrt(d.students.length) * 4;
+    };
     
     function latLngToPoint(latlng) {
         return map.project(latlng)._subtract(map.getPixelOrigin());
     };
     
+    function ls(d) {
+        var e = d;
+        e['type'] = "LineString";
+        e['coordinates'] = [[-118.8750, 34.1894], [d['lng'], d['lat']]];
+        return e;
+    };
+    
+    // geo stuff
     var t = d3.geo.transform({
         point: function(x, y) {
             var point = latLngToPoint(new L.LatLng(y, x));
@@ -44,13 +52,7 @@ function ready(error, data) {
     var path = d3.geo.path()
         .projection(t);
         
-    function ls(d) {
-        var e = d;
-        e['type'] = "LineString";
-        e['coordinates'] = [[-118.8750, 34.1894], [d['lng'], d['lat']]];
-        return e;
-    };
-        
+    // cluster data
     data.forEach(function (d) {
         if (d['University'] in colleges) {
             colleges[d['University']]['students'].push(d)
@@ -64,46 +66,42 @@ function ready(error, data) {
         }
     })
     
-    var test = $.map(colleges, function(value, index) { return [value]; });
-    
-    test.forEach(function (d) {
+    var carray = $.map(colleges, function(value, index) { return [value]; });
+    carray.forEach(function (d) {
         d = ls(d);
     });
     
+    // view
     svg.append("g")
         .attr("class", "colleges")
       .selectAll(".college")
-        .data(test)
+        .data(carray)
       .enter().append("g")
         .attr("class", "college")
         .on("mouseover", function(d) { console.log(d.name); 
             d3.select(this).select("circle")
                 .transition().duration(400).ease("bounce")
-                .attr("r", function(d) { return (Math.sqrt(d.students.length) * Math.pow(2, map.getZoom() ))/8 });
-            d3.select(this).select("path")
-                .transition().duration(100)
-                .style("stroke", "red")
-                .style("opacity", .5);
+                .attr("r", function(d) { return r(d) * rmlt });
+            d3.select("#overview").text(d.name + " " + d.students.length);
+            var studentlist = d3.select("#students ul").selectAll("li").data(d.students)
+                .text(function(e) { return e['First Name'] + " " + e['Last Name'] });
+                
+            studentlist.enter().append("li")
+                .text(function(e) { return e['First Name'] + " " + e['Last Name'] });
+            studentlist.exit().remove();
+              
         })
         .on("mouseout", function(d) { 
             d3.select(this).select("circle")
                 .transition().duration(400).ease("bounce")
-                .attr("r", function(d) { return (Math.sqrt(d.students.length) * Math.pow(2, map.getZoom() ))/32 });
-            d3.select(this).select("path")
-                .transition().duration(100)
-                .style("stroke", null)
-                .style("opacity", null);
+                .attr("r", r);
         })
-        
-    svg.selectAll(".college").append("path")
-        .attr("class", "arc")
-        .attr("d", path)
-        .style("stroke-width", function (d) { return (Math.sqrt(d.students.length) * Math.pow(2, map.getZoom() ))/16 });
+       
         
     svg.selectAll(".college").append("circle")
         .attr("cx", function(d) { var loc = latLngToPoint(new L.LatLng(d['lat'], d['lng'])); return loc == null ? null : loc.x })
         .attr("cy", function(d) { var loc = latLngToPoint(new L.LatLng(d['lat'], d['lng'])); return loc == null ? null : loc.y })
-        .attr("r", function(d) { return (Math.sqrt(d.students.length) * Math.pow(2, map.getZoom() ))/32 });
+        .attr("r", r);
         
     var zoomStates = {
         start: map.getZoom(),
@@ -111,19 +109,20 @@ function ready(error, data) {
     }
         
     function update() {
-        console.log(map.getZoom());
-        svg.selectAll(".college").select("path")
-            .attr("d", path)
-            .style("stroke-width", function (d) { return (Math.sqrt(d.students.length) * Math.pow(2, map.getZoom() ))/16 });
+        zoomStates.end = map.getZoom();
     
         svg.selectAll(".college").select("circle")
             .attr("cx", function(d) { var loc = latLngToPoint(new L.LatLng(d['lat'], d['lng'])); return loc == null ? null : loc.x })
             .attr("cy", function(d) { var loc = latLngToPoint(new L.LatLng(d['lat'], d['lng'])); return loc == null ? null : loc.y })
-            .attr("r", function(d) { return (Math.sqrt(d.students.length) * Math.pow(2, map.getZoom() ))/32  });
+            .attr("r", function(d) { return r(d) * Math.pow(2, zoomStates.end - zoomStates.start) })
+          .transition().duration(250)
+            .attr("r", r);
+            
+        zoomStates.start = map.getZoom();
     };
     
     map.on("viewreset", update);
     
     console.log(colleges);
-    console.log(test);
+    console.log(carray);
 }

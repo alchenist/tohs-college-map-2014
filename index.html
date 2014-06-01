@@ -15,7 +15,9 @@
     }
     
     .college {
-        fill: springgreen;
+        fill: #39E639;
+        stroke: white;
+        stroke-width: 1px;
     }
     
     .arc {
@@ -23,6 +25,39 @@
         opacity: 0.25;
         fill: none;
     }
+    
+    #overlay {
+        position: absolute;
+        width: 300px;
+        right: 50px;
+        top: 0px;
+    }
+    
+    #title {
+        padding: 15px 10px 15px 10px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        font-style:italic;
+        color: white;
+        background: black;
+        font-size: 36px;
+        line-height: 36px;
+        box-shadow: 0 0 5px #39E639; 
+    }
+    
+    .info {
+        padding: 15px 10px 15px 10px;
+        font-family: 'Roboto', sans-serif;
+        background: white;
+        font-size; 12px;
+        box-shadow: 0 0 5px #39E639;
+    }
+    
+    #students {
+        overflow: auto;
+        height: 500px;
+    }
+    
     </style>
 </head>
 
@@ -33,7 +68,13 @@
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" ></script>
     <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
     
+
     <div id="vis" style="position:absolute;top:0;left:0;width:100%;height:100%;overflow:hidden;"></div>
+    <div id="overlay">
+        <div id="title">El Mapa</div>
+        <div class="info" id="overview"> </div>
+        <div class="info" id="students"> <ul> </ul> </div>
+    </div>    
     
     <script src="senior.js"></script>
 </body>
