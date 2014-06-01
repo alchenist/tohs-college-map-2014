@@ -6,7 +6,8 @@ var margin = {
 };
 var width = parseInt(d3.select("#vis").style("width")) - margin.left - margin.right;
 var height = parseInt(d3.select("#vis").style("height")) - margin.bottom - margin.top;
-var map = L.map('vis').setView([39.828, -98.58], 4);
+var map = L.map('vis', {minZoom: 3}).setView([39.828, -98.58], 4);
+map.setMaxBounds([[-85.0, -180.0], [85.0, 180.0]]);
 map._initPathRoot();
 var canvas = d3.select("#vis").select("svg");
 var svg = canvas.append("g")
@@ -96,9 +97,7 @@ function ready(error, data) {
                 .transition().duration(400).ease("bounce")
                 .attr("r", r);
         })
-       
-    
-    console.log(carray);
+
     
     svg.selectAll(".college").append("circle")
         .attr("cx", function(d) { var loc =  d['lat'] == "" ? null :  latLngToPoint(new L.LatLng(d['lat'], d['lng'])); return loc == null ? -50000: loc.x })
@@ -112,6 +111,8 @@ function ready(error, data) {
         
     function update() {
         zoomStates.end = map.getZoom();
+        console.log(zoomStates);
+        console.log(map.getBounds());
     
         svg.selectAll(".college").select("circle")
             .attr("cx", function(d) { var loc =  d['lat'] == "" ? null :  latLngToPoint(new L.LatLng(d['lat'], d['lng'])); return loc == null ? -50000 : loc.x })
