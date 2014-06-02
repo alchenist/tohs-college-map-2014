@@ -25,6 +25,10 @@ queue()
 function ready(error, data) {
     var colleges = {};
     var rmlt = 2;
+    var zoomStates = {
+        start: map.getZoom(),
+        end: map.getZoom()
+    }
     
     // helper functions and stuff
     function r(d) {
@@ -33,13 +37,6 @@ function ready(error, data) {
     
     function latLngToPoint(latlng) {
         return map.project(latlng)._subtract(map.getPixelOrigin());
-    };
-    
-    function ls(d) {
-        var e = d;
-        e['type'] = "LineString";
-        e['coordinates'] = [[-118.8750, 34.1894], [d['lng'], d['lat']]];
-        return e;
     };
     
     // geo stuff
@@ -68,9 +65,6 @@ function ready(error, data) {
     })
     
     var carray = $.map(colleges, function(value, index) { return [value]; });
-    carray.forEach(function (d) {
-        d = ls(d);
-    });
         
     function updateList(array) {
         var dests = d3.select("#students .list").selectAll("li")
@@ -164,13 +158,6 @@ function ready(error, data) {
         .attr("cy", function(d) { var loc =  d['lat'] == "" ? null :  latLngToPoint(new L.LatLng(d['lat'], d['lng'])); return loc == null ? -50000 : loc.y })
         .attr("r", r);
         
-    updateList(carray);
-        
-    var zoomStates = {
-        start: map.getZoom(),
-        end: map.getZoom()
-    }
-        
     function update() {
         zoomStates.end = map.getZoom();
     
@@ -185,4 +172,5 @@ function ready(error, data) {
     };
     
     map.on("viewreset", update);
+    updateList(carray);
 }
