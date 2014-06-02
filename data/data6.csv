@@ -1,4 +1,13 @@
 Last Name,First Name,Full Name,Destination,Location,Type,Notes,Other notes,lat,lng
+Ahles,Grant,Grant Ahles, N/A,,,,,,
+Arciga,Eddie,Eddie Arciga, N/A,UT/LDS,4,,,,
+Diaz,Gianna,Gianna Diaz, N/A,,,,,,
+Garcia,Candy,Candy Garcia, N/A,,,"LDS mission, not assigned yet.",,,
+Hiott,Victoria,Victoria Hiott, N/A,,,,,,
+Loesch,Elysia,Elysia Loesch, N/A,,,,,,
+McIntyre,Chase,Chase McIntyre, N/A,,,,,,
+Millman,Alexandra,Alexandra Millman, N/A,,,,,,
+Perez,Jorge Bernardo,Jorge Bernardo Perez, N/A,,,,,,
 Nitka,Ben,Ben Nitka,American University of Paris,France,4,,,48.8593229,2.3038928
 Neveu,Alison,Alison Neveu,Amherst College,MA,4,,,42.3709104,-72.5170028
 Arndt,James,James Arndt,Arizona State University,AZ,4,,,33.4214736,-111.934023
@@ -10,7 +19,6 @@ Poling,Kylee,Kylee Poling,Australia,Australia,WORK,Modeling,,-25.274398,133.7751
 Olivas,Gabby,Gabby Olivas,Belmont University,TN,4,,,36.1356505,-86.7948173
 Reich,Meghan,Meghan Reich,Belmont University,TN,4,,,36.1356505,-86.7948173
 Marks,Allison,Allison Marks,Bethlehem College and Seminary,MN,4,,,46.729553,-94.6858998
-Cardenas,Ivan,Ivan Cardenas,Blind School,CA,,,,,
 Lopez,Jonathan,Jonathan Lopez,Boston University,MA,4,,,42.3507543,-71.1073183
 Mahler,Andrew,Andrew Mahler,Boston University,MA,4,,,42.3507543,-71.1073183
 Lane,Emily,Emily Lane,Brooks Institute,CA,T,,,34.4368006,-119.6951815
@@ -20,7 +28,6 @@ Murphy,Brooke,Brooke Murphy,BYU (Idaho),ID,4,,,43.8125918,-111.7852624
 Snyder,Zachary,Zachary Snyder,BYU (Idaho),ID,4,,,43.8125918,-111.7852624
 Sutherland,Savannah,Savannah Sutherland,BYU (Idaho),ID,4,,,43.8125918,-111.7852624
 Zierenberg,Courtney,Courtney Zierenberg,BYU (Idaho),ID,4,,,43.8125918,-111.7852624
-Arciga,Eddie,Eddie Arciga,BYU (Provo),UT/LDS,4,,,40.2518429,-111.6493177
 Gouett,Brock,Brock Gouett,BYU (Provo),UT/LDS,4,,,40.2518429,-111.6493177
 Porter,Delaney,Delaney Porter,BYU (Provo),UT,4,,,40.2518429,-111.6493177
 Rupp,Shanna,Shanna Rupp,BYU (Provo),UT,4,,,40.2518429,-111.6493177
@@ -46,31 +53,31 @@ James,Lauren,Lauren James,Courtauld University,London,4,Living in London the fir
 Dixon,Emmett,Emmett Dixon,CSU Cal Maritime,CA,4,,,38.0683458,-122.2307879
 Myers,Colton,Colton Myers,CSU Cal Poly Pomona,CA,4,,,34.0593197,-117.8194625
 Vaughn,Katerina,Katerina Vaughn,CSU Cal Poly Pomona,CA,4,,,34.0593197,-117.8194625
-Bartak,Sarah,Sarah Bartak,CSU Cal Poly SLO,CA,4,,,36.778261,-119.4179324
+Bartak,Sarah,Sarah Bartak,CSU Cal Poly SLO,CA,4,,,35.3050054,-120.6624942
 Garvin,Christopher,Christopher Garvin,CSU Cal Poly SLO,CA,4,,,36.778261,-119.4179324
 Kavanagh,Paige,Paige Kavanagh,CSU Cal Poly SLO,CA,4,,,36.778261,-119.4179324
 Reinach,Eli,Eli Reinach,CSU Cal Poly SLO,CA,4,,,36.778261,-119.4179324
 Sookikian,Jordan,Jordan Sookikian,CSU Cal Poly SLO,CA,4,,,36.778261,-119.4179324
 Spencer,Nicholas,Nicholas Spencer,CSU Cal Poly SLO,CA,4,,,36.778261,-119.4179324
 Williams,Jake,Jake Williams,CSU Cal Poly SLO,CA,4,,,36.778261,-119.4179324
-Arneson,Josh,Josh Arneson,CSU Channel Islands,CA,4,,,34.1843078,-118.882796
-Boze,Tucker,Tucker Boze,CSU Channel Islands,CA,4,,,34.1843078,-118.882796
-Carrillo,Estrella,Estrella Carrillo,CSU Channel Islands,CA,4,,,34.1843078,-118.882796
-Casanova,Elsie,Elsie Casanova,CSU Channel Islands,CA,4,,,34.1843078,-118.882796
-Durkin,Bailey,Bailey Durkin,CSU Channel Islands,CA,4,,,34.1843078,-118.882796
-Frattali,Danielle,Danielle Frattali,CSU Channel Islands,CA,4,,,34.1843078,-118.882796
-Gamboa,Ayme,Ayme Gamboa,CSU Channel Islands,CA,4,,,34.1843078,-118.882796
-Kravchenko,Mariya,Mariya Kravchenko,CSU Channel Islands,CA,2,,,34.1843078,-118.882796
-Kreiger,Wesley,Wesley Kreiger,CSU Channel Islands,CA,4,,,34.1843078,-118.882796
-Patlin,Daniel,Daniel Patlin,CSU Channel Islands,CA,4,,,34.1843078,-118.882796
-Quina,Elizabeth,Elizabeth Quina,CSU Channel Islands,CA,4,,,34.1843078,-118.882796
-Rector,Cassidy,Cassidy Rector,CSU Channel Islands,CA,4,,,34.1843078,-118.882796
-Royal,Katie,Katie Royal,CSU Channel Islands,CA,4,,,34.1843078,-118.882796
-Santacruz,Fabiola,Fabiola Santacruz,CSU Channel Islands,CA,4,,,34.1843078,-118.882796
-Swain-Cohen,Bronwyn,Bronwyn Swain-Cohen,CSU Channel Islands,CA,4,,,34.1843078,-118.882796
-Trejo,Yvette,Yvette Trejo,CSU Channel Islands,CA,4,,,34.1843078,-118.882796
-Villasenor,Aldair,Aldair Villasenor,CSU Channel Islands,CA,4,,,34.1843078,-118.882796
-Willis,Charles,Charles Willis,CSU Channel Islands,CA,4,,,34.1843078,-118.882796
+Arneson,Josh,Josh Arneson,CSU Channel Islands,CA,4,,,34.161921,-119.0438138
+Boze,Tucker,Tucker Boze,CSU Channel Islands,CA,4,,,34.161921,-119.0438138
+Carrillo,Estrella,Estrella Carrillo,CSU Channel Islands,CA,4,,,34.161921,-119.0438138
+Casanova,Elsie,Elsie Casanova,CSU Channel Islands,CA,4,,,34.161921,-119.0438138
+Durkin,Bailey,Bailey Durkin,CSU Channel Islands,CA,4,,,34.161921,-119.0438138
+Frattali,Danielle,Danielle Frattali,CSU Channel Islands,CA,4,,,34.161921,-119.0438138
+Gamboa,Ayme,Ayme Gamboa,CSU Channel Islands,CA,4,,,34.161921,-119.0438138
+Kravchenko,Mariya,Mariya Kravchenko,CSU Channel Islands,CA,2,,,34.161921,-119.0438138
+Kreiger,Wesley,Wesley Kreiger,CSU Channel Islands,CA,4,,,34.161921,-119.0438138
+Patlin,Daniel,Daniel Patlin,CSU Channel Islands,CA,4,,,34.161921,-119.0438138
+Quina,Elizabeth,Elizabeth Quina,CSU Channel Islands,CA,4,,,34.161921,-119.0438138
+Rector,Cassidy,Cassidy Rector,CSU Channel Islands,CA,4,,,34.161921,-119.0438138
+Royal,Katie,Katie Royal,CSU Channel Islands,CA,4,,,34.161921,-119.0438138
+Santacruz,Fabiola,Fabiola Santacruz,CSU Channel Islands,CA,4,,,34.161921,-119.0438138
+Swain-Cohen,Bronwyn,Bronwyn Swain-Cohen,CSU Channel Islands,CA,4,,,34.161921,-119.0438138
+Trejo,Yvette,Yvette Trejo,CSU Channel Islands,CA,4,,,34.161921,-119.0438138
+Villasenor,Aldair,Aldair Villasenor,CSU Channel Islands,CA,4,,,34.161921,-119.0438138
+Willis,Charles,Charles Willis,CSU Channel Islands,CA,4,,,34.161921,-119.0438138
 Garcia,William,William Garcia,CSU Chico,CA,4,,,39.7281043,-121.846213
 Otterness,Rachel,Rachel Otterness,CSU Chico,CA,4,,,39.7281043,-121.846213
 Geiser,Jessica,Jessica Geiser,CSU Fullerton,CA,4,,,33.8831638,-117.8868519
@@ -132,8 +139,15 @@ Peach,Kenzy,Kenzy Peach,Emerson College,MA,4,,,42.3520869,-71.0657174
 Quintero,Robert,Robert Quintero,Everest College,CA,T,,,34.080232,-118.148676
 Aguilar,Rachel,Rachel Aguilar,Fashion Institute of Design and Merchandise,CA,2,,,37.7862832,-122.4064587
 Jaimerena,Jeanett,Jeanett Jaimerena,Gap year in Spain,Spain,GAP,,,40.463667,-3.74922
+Diaz,Allondra,Allondra Diaz,Gap year: unlisted location,CA,GAP,,,,
+Escobar,Lesly,Lesly Escobar,Gap year: unlisted location,N/A,GAP,Gap Year - Volunteer work abroad,,,
+Haile,Donnie,Donnie Haile,Gap year: unlisted location,CA,GAP,,,,
+Scheer,Paul,Paul Scheer,Gap year: unlisted location,CA,GAP,,,,
+Vano,Brian,Brian Vano,Gap year: unlisted location,CA,GAP,,,,
+Zarate,Selena,Selena Zarate,Gap year: unlisted location,CA,GAP,,,,
 Cvjetnicanin,Nicole,Nicole Cvjetnicanin,Gettysburg College,PA,4,,,39.835958,-77.2372308
 Quintard,Bennett,Bennett Quintard,Global Citizen Year in Ecuador,Ecuador,GAP,Global Citizen Year in Ecuador,,-1.831239,-78.1834059
+Cardenas,Ivan,Ivan Cardenas,Hatlen Center For the Blind,CA,,,,37.9627348,-122.3421432
 Rhodes,Allison,Allison Rhodes,Ithaca College,NY,4,,,42.4221462,-76.4950805
 Mundwiller,Rebecca,Rebecca Mundwiller,John Paul the Great Catholic University,CA,4,,,33.1205756,-117.0824506
 Marino,Natalie,Natalie Marino,Kapiolani Community College,HI,C,,,21.2694,-157.8017
@@ -151,7 +165,17 @@ Moreno,Tambria,Tambria Moreno,Los Angeles Film School,CA,2,,,34.0764676,-118.440
 Rucker,CJ,CJ Rucker,Louisiana State University,LA,4,,,30.4132579,-91.1800023
 Johnsen,Emilee,Emilee Johnsen,Loyola Marymount University,CA,4,,,33.9704172,-118.4174046
 Smith,Tina,Tina Smith,Loyola University Chicago,IL,4,,,41.8974042,-87.6249021
+Lopez,Daniel,Daniel Lopez,Marine Corps Base Camp Pendleton,CA,MILITARY,Aviation Engineering,,33.301418,-117.355034
 Kinnon,Makenna,Makenna Kinnon,Marinello Schools of Beauty,CA,T,,,34.2718071,-118.7778723
+Allred,Emily,Emily Allred,"Military, unlisted location",IL,MILITARY,US Navy,,,
+Arriola,David,David Arriola,"Military, unlisted location",N/A,MILITARY,US Marine Corps,,,
+Bodenhamer,Thomas,Thomas Bodenhamer,"Military, unlisted location",N/A,MILITARY,,,,
+Hanrahan,Matthew,Matthew Hanrahan,"Military, unlisted location",CA,MILITARY,US Marine Corps,,,
+King,Adam,Adam King,"Military, unlisted location",N/A,MILITARY,,,,
+McLeod,Landon,Landon McLeod,"Military, unlisted location",N/A,MILITARY,US Navy//Navy Rescue Swimming School,,,
+Mendez,Christian,Christian Mendez,"Military, unlisted location",CA,MILITARY,US Marine Corps,,,
+Reed,Kyle,Kyle Reed,"Military, unlisted location",N/A,MILITARY,,,,
+Ruelas,Pastor,Pastor Ruelas,"Military, unlisted location",N/A,MILITARY,,,,
 Jasperse,Hannah,Hannah Jasperse,Mission work in Guatemala,Guatemala,GAP,Mission work in Guatemala,,14.6133333,-90.5352778
 Abdallat,Omar,Omar Abdallat,Moorpark College,CA,C,,,34.2994971,-118.8378323
 Alexander,Madeline,Madeline Alexander,Moorpark College,CA,C,,,34.2994971,-118.8378323
@@ -362,43 +386,10 @@ Zarkowski,Kenny,Kenny Zarkowski,Moorpark College,CA,C,,,34.2994971,-118.8378323
 Zedan,Iliana,Iliana Zedan,Moorpark College,CA,C,,,34.2994971,-118.8378323
 Zepeda,Manuel,Manuel Zepeda,Moorpark College,CA,C,,,34.2994971,-118.8378323
 Martinez,Jose,Jose Martinez,Musicians Institute,CA,C,,,34.101311,-118.3376997
-Allred,Emily,Emily Allred,Military,IL,MILITARY,US Navy,,,
-Andrews,Jake,Jake Andrews,N/A,CA,WORK,LED technician position at Creative Technology,,,
-Arriola,David,David Arriola,Military,N/A,MILITARY,US Marine Corps,,,
-Balcom,Connor,Connor Balcom,N/A,CA,WORK,,,,
-Bodenhamer,Thomas,Thomas Bodenhamer,Military,N/A,MILITARY,,,,
-Diaz,Allondra,Allondra Diaz,Gap year: unlisted location,CA,GAP,,,,
-Doyle,Kaley,Kaley Doyle,N/A,CA,WORK,,,,
-Escobar,Lesly,Lesly Escobar,Gap year: unlisted location,N/A,GAP,Gap Year - Volunteer work abroad,,,
 Franco,Kevin,Kevin Franco,N/A,CA,N/A,,,,
-Franklin,Madison,Madison Franklin,N/A,CA,WORK,,,,
-French,Aly,Aly French,N/A,CA,WORK,,,,
-Gary,James,James Gary,N/A,CA,WORK,,,,
-Haile,Donnie,Donnie Haile,Gap year: unlisted location,CA,GAP,,,,
-Hanrahan,Matthew,Matthew Hanrahan,Military,CA,MILITARY,US Marine Corps,,,
-Hansted Meadors,Ranzie,Ranzie Hansted Meadors,N/A,CA,WORK,,,,
-Huntsinger,William,William Huntsinger,N/A,TX/AZ,WORK,,,,
 Jack,Nicholas,Nicholas Jack,N/A,CA, N/A,,,,
-King,Adam,Adam King,Military,N/A,MILITARY,,,,
-Lopez,Brandon,Brandon Lopez,N/A,CA,WORK,,,,
-Lopez,Daniel,Daniel Lopez,Marine Corps Base Camp Pendleton,CA,MILITARY,Aviation Engineering,,33.301418,-117.355034
-Lopez,Zeev,Zeev Lopez,N/A,N/A,WORK,,,,
 Mackey,Daniel,Daniel Mackey,N/A,CA,T,Automotive Mechanics,,,
 Magnuson,Mark,Mark Magnuson,N/A,,T,Mechanical Contracting,,,
-McLeod,Landon,Landon McLeod,Military,N/A,MILITARY,US Navy//Navy Rescue Swimming School,,,
-Mead,Ashlynn,Ashlynn Mead,N/A,CA,WORK,,,,
-Mendez,Christian,Christian Mendez,Military,CA,MILITARY,US Marine Corps,,,
-Navarro,Jose,Jose Navarro,N/A,N/A,WORK,Work/Fighting abroad,,,
-Painter,Evan,Evan Painter,N/A,CA,WORK,,,,
-Perini,Dillin,Dillin Perini,N/A,AZ,WORK,,,,
-Reed,Kyle,Kyle Reed,Military,N/A,MILITARY,,,,
-Ruelas,Pastor,Pastor Ruelas,Military,N/A,MILITARY,,,,
-Rutten,Sabine,Sabine Rutten,N/A,CA,WORK,,,,
-Sanchez,Christian,Christian Sanchez,N/A,VA,WORK,,,,
-Scheer,Paul,Paul Scheer,Gap year: unlisted location,CA,GAP,,,,
-Skelton,Emma,Emma Skelton,N/A,CA,WORK,,,,
-Vano,Brian,Brian Vano,Gap year: unlisted location,CA,GAP,,,,
-Zarate,Selena,Selena Zarate,Gap year: unlisted location,CA,GAP,,,,
 Callahan,Erin,Erin Callahan,Northeastern University,MA,4,,,42.3398067,-71.0891717
 Riemen,Nick,Nick Riemen,Northeastern University,MA,4,,,42.3398067,-71.0891717
 Geiger,Gavin,Gavin Geiger,Northern Arizona University,AZ,4,,,35.1898983,-111.6527599
@@ -474,9 +465,9 @@ Rivalta,Julia,Julia Rivalta,UC Berkeley,CA,4,,,37.8739132,-122.2505629
 Rosenberg,Paige,Paige Rosenberg,UC Berkeley,CA,4,,,37.8739132,-122.2505629
 Tan,Joyce,Joyce Tan,UC Berkeley,CA,4,,,37.8739132,-122.2505629
 Taylor,Wyatt,Wyatt Taylor,UC Berkeley,CA,4,,,37.8739132,-122.2505629
-Coral,Kevin,Kevin Coral,UC Davis,CA,4,,,38.6638475,-121.287886
-Kolvenbach,Sydney,Sydney Kolvenbach,UC Davis,CA,4,,,38.6638475,-121.287886
-Marvin,Jessica,Jessica Marvin,UC Davis,CA,4,,,38.6638475,-121.287886
+Coral,Kevin,Kevin Coral,UC Davis,CA,4,,,38.5368041,-121.7489938
+Kolvenbach,Sydney,Sydney Kolvenbach,UC Davis,CA,4,,,38.5368041,-121.7489938
+Marvin,Jessica,Jessica Marvin,UC Davis,CA,4,,,38.5368041,-121.7489938
 Ishiyama,Lukas,Lukas Ishiyama,UC Riverside,CA,4,,,33.973287,-117.3281109
 Laput,Sean,Sean Laput,UC Riverside,CA,4,,,33.973287,-117.3281109
 Jesse,Brianna,Brianna Jesse,UC Santa Cruz,CA,4,,,36.9913856,-122.0608718
@@ -512,8 +503,8 @@ McMinn,William,William McMinn,UCSD,CA,4,,,32.8800604,-117.2340135
 Riedell,Daniel,Daniel Riedell,UCSD,CA,4,,,32.8800604,-117.2340135
 Smith,Katherine,Katherine Smith,UCSD,CA,4,,,32.8800604,-117.2340135
 Dueber,Natalee,Natalee Dueber,United States Air Force Academy,CO,4,,,38.9983573,-104.8617533
-Herrera,Israel,Israel Herrera,Universal Technical Institute,CA,T,,,38.6456586,-121.5295068
-Perez,Estevan,Estevan Perez,Universal Technical Institute,CA,T,,,38.6456586,-121.5295068
+Herrera,Israel,Israel Herrera,Universal Technical Institute,CA,T,,,34.0832941,-117.5764651
+Perez,Estevan,Estevan Perez,Universal Technical Institute,CA,T,,,34.0832941,-117.5764651
 De Souza,Kevin,Kevin De Souza,University of Arizona,AZ,4,,,33.4522217,-112.0662126
 Hernandez,Alexander,Alexander Hernandez,University of Arizona,AZ,4,,,33.4522217,-112.0662126
 Esqueda,Carter,Carter Esqueda,"University of Colorado, Boulder",CO,4,,,40.0060711,-105.2759132
@@ -560,11 +551,20 @@ Puckett,Shauna,Shauna Puckett,Western Oregon University,OR,4,,,44.8517394,-123.2
 Chow,Noah,Noah Chow,Westmont College,CA,4,,,34.4485027,-119.6616697
 Lichtl,Amanda,Amanda Lichtl,Westmont College,CA,4,,,34.4485027,-119.6616697
 Stueckle,Audrey,Audrey Stueckle,Willamette University,OR,4,,,44.9371219,-123.0318004
-Ahles,Grant,Grant Ahles,,,,,,,
-Diaz,Gianna,Gianna Diaz,,,,,,,
-Garcia,Candy,Candy Garcia,,,,"LDS mission, not assigned yet.",,,
-Hiott,Victoria,Victoria Hiott,,,,,,,
-Loesch,Elysia,Elysia Loesch,,,,,,,
-McIntyre,Chase,Chase McIntyre,,,,,,,
-Millman,Alexandra,Alexandra Millman,,,,,,,
-Perez,Jorge Bernardo,Jorge Bernardo Perez,,,,,,,
+Andrews,Jake,Jake Andrews,"Work, unlisted location",CA,WORK,LED technician position at Creative Technology,,,
+Balcom,Connor,Connor Balcom,"Work, unlisted location",CA,WORK,,,,
+Doyle,Kaley,Kaley Doyle,"Work, unlisted location",CA,WORK,,,,
+Franklin,Madison,Madison Franklin,"Work, unlisted location",CA,WORK,,,,
+French,Aly,Aly French,"Work, unlisted location",CA,WORK,,,,
+Gary,James,James Gary,"Work, unlisted location",CA,WORK,,,,
+Hansted Meadors,Ranzie,Ranzie Hansted Meadors,"Work, unlisted location",CA,WORK,,,,
+Huntsinger,William,William Huntsinger,"Work, unlisted location",TX/AZ,WORK,,,,
+Lopez,Brandon,Brandon Lopez,"Work, unlisted location",CA,WORK,,,,
+Lopez,Zeev,Zeev Lopez,"Work, unlisted location",N/A,WORK,,,,
+Mead,Ashlynn,Ashlynn Mead,"Work, unlisted location",CA,WORK,,,,
+Navarro,Jose,Jose Navarro,"Work, unlisted location",N/A,WORK,Work/Fighting abroad,,,
+Painter,Evan,Evan Painter,"Work, unlisted location",CA,WORK,,,,
+Perini,Dillin,Dillin Perini,"Work, unlisted location",AZ,WORK,,,,
+Rutten,Sabine,Sabine Rutten,"Work, unlisted location",CA,WORK,,,,
+Sanchez,Christian,Christian Sanchez,"Work, unlisted location",VA,WORK,,,,
+Skelton,Emma,Emma Skelton,"Work, unlisted location",CA,WORK,,,,
