@@ -84,10 +84,9 @@ function ready(error, data) {
         dests.attr("class", "dest").html(function(d) { 
             var output = "<div class='header'>" + d.name + "</div>\n<table>";
             d.students.forEach(function(e) { 
-                output = output + "<tr><td>" + e['Full Name'] + "</td></tr>\n";
+                output = output + "<tr><td>" + e['Full Name'] + "</td>" + "<td style='width:40%'>" + e['Notes'] + "</td>" + "</tr>\n";
             });
             output = output + "</table>"
-            console.log(output);
             return output;
         });
         
@@ -98,12 +97,9 @@ function ready(error, data) {
         dests.exit().remove();
         
         var nameArray = array.map(function(el) { return el.name });
-        console.log(nameArray);
         
         d3.selectAll(".college")
             .attr("class", function(e) { 
-                console.log(e.name);
-                console.log(nameArray.indexOf(e.name) >= 0);
                 return (nameArray.indexOf(e.name) >= 0) ? "college selected" : "college";
             });
     };
@@ -144,7 +140,7 @@ function ready(error, data) {
         .data(carray)
       .enter().append("g")
         .attr("class", "college")
-        .on("mouseover", function(d) { console.log(d.name); 
+        .on("mouseover", function(d) {
             d3.select(this).select("circle")
                 .transition().duration(400).ease("bounce")
                 .attr("r", function(d) { return r(d) * rmlt });
@@ -177,8 +173,6 @@ function ready(error, data) {
         
     function update() {
         zoomStates.end = map.getZoom();
-        console.log(zoomStates);
-        console.log(map.getBounds());
     
         svg.selectAll(".college").select("circle")
             .attr("cx", function(d) { var loc =  d['lat'] == "" ? null :  latLngToPoint(new L.LatLng(d['lat'], d['lng'])); return loc == null ? -50000 : loc.x })
