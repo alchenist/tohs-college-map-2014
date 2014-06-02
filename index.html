@@ -58,6 +58,16 @@
         max-height: 500px;
     }
     
+    #students .list {
+        padding: 0px;
+    }
+    
+    #students .list > li {
+        display:block;
+        padding:6px;
+        box-shadow: inset 0 1px 0 #fff;
+    }
+    
     </style>
 </head>
 
@@ -75,7 +85,13 @@
         </br>
         <div class="info" id="overview"> </div>
         </br>
-        <div class="info" id="students"> <ul> </ul> </div>
+        <div class="info" id="students"> 
+            <input class="search" />
+            
+            <ul class="list">
+            
+            </ul>
+        </div>
     </div>    
     
     <script src="senior.js"></script>
