@@ -15,7 +15,7 @@ var svg = canvas.append("g")
         transform: "translate(" + margin.left + "," + margin.top + ")"
     });
 L.tileLayer('http://{s}.tiles.mapbox.com/v3/alchenist.icdhlj9g/{z}/{x}/{y}.png', {
-    attribution: 'Imagery &copy; <a href="http://www.mapbox.com">Mapbox</a>' 
+    attribution: 'Imagery &copy; <a href="http://www.mapbox.com">Mapbox</a> | Corrections, comments, or questions? Contact us at <a href="mailto:thelancer.tohs@gmail.com">thelancer.tohs@gmail.com</a>' 
 }).addTo(map);
 
 queue()
@@ -73,59 +73,69 @@ function ready(error, data) {
     });
         
     function updateList(array) {
-        var dests = d3.select("#students ul").selectAll("li")
+        var dests = d3.select("#students .list").selectAll("li")
             .data(array);
         
         // enter selection
         dests.enter().append("li");
         
-        
         // enter and update
         // create header. then clear list 
-        dests.html(function(d) { return "<h3>" + d.name + "</h3>" })
-            .selectAll("ul").remove();
-            
-        dests.append("ul")
-          .selectAll("li")
-            .data(function(d) { return d.students })
-          .enter().append("li")
-            .text(function(e) { return e['Full Name'] });
-          
-        // exit selection
+        dests.attr("class", "dest").html(function(d) { 
+            var output = "<div class='header'>" + d.name + "</div>\n<table>";
+            d.students.forEach(function(e) { 
+                output = output + "<tr><td>" + e['Full Name'] + "</td></tr>\n";
+            });
+            output = output + "</table>"
+            console.log(output);
+            return output;
+        });
+        
+        dests.on("click", function(d) { 
+                map.setView([d.lat, d.lng], 8, {pan : {animate: true, duration: 0.5}, zoom: {animate: true}});
+            });
+        
         dests.exit().remove();
         
+        var nameArray = array.map(function(el) { return el.name });
+        console.log(nameArray);
+        
+        d3.selectAll(".college")
+            .attr("class", function(e) { 
+                console.log(e.name);
+                console.log(nameArray.indexOf(e.name) >= 0);
+                return (nameArray.indexOf(e.name) >= 0) ? "college selected" : "college";
+            });
     };
     
     function filterCArray(str) {
-        var temp = []
+        var temp = [];
+        if (str == "") {
+            return carray;
+        };
         carray.forEach(function(el) {
             if (el.name.toUpperCase().indexOf(str.toUpperCase()) >= 0) {
                 temp.push(el);
             } else {
-                var temp2 = []
+                var temp2 = []  
                 el.students.forEach(function (s) { 
                     if (s['Full Name'].toUpperCase().indexOf(str.toUpperCase()) >= 0) {
                         temp2.push(s)
                     }
-                })
+                });
                 if (temp2.length > 0) {
                     var el2 = jQuery.extend(true, {}, el);
                     el2.students = temp2;
                     temp.push(el2);
-                }
+                };
             } 
-        })
-        return temp
-    }
+        });
+        return temp;
+    };
     
     d3.select("#students .search").on("keyup", function() { 
-        console.log(this.value);
-        if (this.value.length > 0) {
-            updateList(filterCArray(this.value));
-        } else {
-            updateList(carray);
-        };
-    })
+        updateList(filterCArray(this.value));        
+    });
     
     // view
     svg.append("g")
@@ -138,30 +148,27 @@ function ready(error, data) {
             d3.select(this).select("circle")
                 .transition().duration(400).ease("bounce")
                 .attr("r", function(d) { return r(d) * rmlt });
-
-                
-            /*
-            d3.select("#overview").text(d.name + " " + d.students.length);
             
-            var studentlist = d3.select("#students ul").selectAll("li").data(d.students)
-                .text(function(e) { return e['Full Name'] });
-                
-            studentlist.enter().append("li")
-                .text(function(e) { return e['First Name'] + " " + e['Last Name'] });
-            studentlist.exit().remove();
-            */
+            updateList([d]);
         })
-        .on("mouseout", function(d) { 
+        .on("mouseout", function(d) {
             d3.select(this).select("circle")
                 .transition().duration(400).ease("bounce")
                 .attr("r", r);
+            updateList(filterCArray(document.getElementsByClassName("search")[0].value));
         })
+        .on("click", function(d) { 
+            map.setView([d.lat, d.lng], 8, {pan : {animate: true, duration: 0.5}, zoom: {animate: true}});
+            document.getElementsByClassName("search")[0].value = d.name;
+        });
 
     
     svg.selectAll(".college").append("circle")
         .attr("cx", function(d) { var loc =  d['lat'] == "" ? null :  latLngToPoint(new L.LatLng(d['lat'], d['lng'])); return loc == null ? -50000: loc.x })
         .attr("cy", function(d) { var loc =  d['lat'] == "" ? null :  latLngToPoint(new L.LatLng(d['lat'], d['lng'])); return loc == null ? -50000 : loc.y })
         .attr("r", r);
+        
+    updateList(carray);
         
     var zoomStates = {
         start: map.getZoom(),
