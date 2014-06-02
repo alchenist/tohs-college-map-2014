@@ -71,6 +71,61 @@ function ready(error, data) {
     carray.forEach(function (d) {
         d = ls(d);
     });
+        
+    function updateList(array) {
+        var dests = d3.select("#students ul").selectAll("li")
+            .data(array);
+        
+        // enter selection
+        dests.enter().append("li");
+        
+        
+        // enter and update
+        // create header. then clear list 
+        dests.html(function(d) { return "<h3>" + d.name + "</h3>" })
+            .selectAll("ul").remove();
+            
+        dests.append("ul")
+          .selectAll("li")
+            .data(function(d) { return d.students })
+          .enter().append("li")
+            .text(function(e) { return e['Full Name'] });
+          
+        // exit selection
+        dests.exit().remove();
+        
+    };
+    
+    function filterCArray(str) {
+        var temp = []
+        carray.forEach(function(el) {
+            if (el.name.toUpperCase().indexOf(str.toUpperCase()) >= 0) {
+                temp.push(el);
+            } else {
+                var temp2 = []
+                el.students.forEach(function (s) { 
+                    if (s['Full Name'].toUpperCase().indexOf(str.toUpperCase()) >= 0) {
+                        temp2.push(s)
+                    }
+                })
+                if (temp2.length > 0) {
+                    var el2 = jQuery.extend(true, {}, el);
+                    el2.students = temp2;
+                    temp.push(el2);
+                }
+            } 
+        })
+        return temp
+    }
+    
+    d3.select("#students .search").on("keyup", function() { 
+        console.log(this.value);
+        if (this.value.length > 0) {
+            updateList(filterCArray(this.value));
+        } else {
+            updateList(carray);
+        };
+    })
     
     // view
     svg.append("g")
@@ -83,14 +138,18 @@ function ready(error, data) {
             d3.select(this).select("circle")
                 .transition().duration(400).ease("bounce")
                 .attr("r", function(d) { return r(d) * rmlt });
+
+                
+            /*
             d3.select("#overview").text(d.name + " " + d.students.length);
+            
             var studentlist = d3.select("#students ul").selectAll("li").data(d.students)
                 .text(function(e) { return e['Full Name'] });
                 
             studentlist.enter().append("li")
                 .text(function(e) { return e['First Name'] + " " + e['Last Name'] });
             studentlist.exit().remove();
-              
+            */
         })
         .on("mouseout", function(d) { 
             d3.select(this).select("circle")
