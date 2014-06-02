@@ -19,7 +19,7 @@ L.tileLayer('http://{s}.tiles.mapbox.com/v3/alchenist.icdhlj9g/{z}/{x}/{y}.png',
 }).addTo(map);
 
 queue()
-    .defer(d3.csv, "data/data5.csv")
+    .defer(d3.csv, "data/data6.csv")
     .await(ready);
     
 function ready(error, data) {
